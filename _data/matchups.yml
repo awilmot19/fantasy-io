@@ -19,11 +19,11 @@
         statVal: '13.59'
         rank: 21st
       - statName: Opponent
-        statVal: "../images/teams/NO.png"
+        statVal: "images/teams/NO.png"
         rank: 29th
       name: Russell Wilson
       team-image: "images/teams/SEA.png"
-      image: "/images/players/russell-wilson.png"
+      image: "images/players/russell-wilson.png"
       number: '3'
       team: Seattle Seahawks
       gamesPlayed: '6'
@@ -45,11 +45,11 @@
         statVal: '19.91'
         rank: 8th
       - statName: Opponent
-        statVal: "/images/teams/ATL.png"
+        statVal: "images/teams/ATL.png"
         rank: 19th
       name: Aaron Rodgers
-      team-image: "/images/teams/GB.png"
-      image: "/images/players/aaron-rodgers.png"
+      team-image: "images/teams/GB.png"
+      image: "images/players/aaron-rodgers.png"
       number: '12'
       team: Green Bay Packers
       gamesPlayed: '6'
@@ -66,10 +66,10 @@
       - statName: FP Per Game
         statVal: '20.17'
       - statName: Opponent
-        statVal: "/images/teams/HOU.png"
+        statVal: "images/teams/HOU.png"
       name: Matthew Stafford
-      team-image: "/images/teams/DET.png"
-      image: "/images/players/matthew-stafford.png"
+      team-image: "images/teams/DET.png"
+      image: "images/players/matthew-stafford.png"
       number: '9'
       team: Detroit Lions
       gamesPlayed: '7'
@@ -86,10 +86,10 @@
       - statName: FP Per Game
         statVal: '21.41'
       - statName: Opponent
-        statVal: "/images/teams/KC.png"
+        statVal: "images/teams/KC.png"
       name: Andrew Luck
-      team-image: "/images/teams/IND.png"
-      image: "/images/players/andrew-luck.png"
+      team-image: "images/teams/IND.png"
+      image: "images/players/andrew-luck.png"
       number: '12'
       team: Indianapolis Colts
       gamesPlayed: '7'
@@ -106,10 +106,10 @@
       - statName: FP Per Game
         statVal: '25.02'
       - statName: Opponent
-        statVal: "/images/teams/BUF.png"
+        statVal: "images/teams/BUF.png"
       name: Tom Brady
-      team-image: "/images/teams/NE.png"
-      image: "/images/players/tom-brady.png"
+      team-image: "images/teams/NE.png"
+      image: "images/players/tom-brady.png"
       number: '12'
       team: New England Patriots
       gamesPlayed: '3'
@@ -126,10 +126,10 @@
       - statName: FP Per Game
         statVal: '22.56'
       - statName: Opponent
-        statVal: "/images/teams/GB.png"
+        statVal: "images/teams/GB.png"
       name: Matt Ryan
-      team-image: "/images/teams/ATL.png"
-      image: "/images/players/matt-ryan.png"
+      team-image: "images/teams/ATL.png"
+      image: "images/players/matt-ryan.png"
       number: '2'
       team: Atlanta Falcons
       gamesPlayed: '7'
@@ -149,10 +149,10 @@
       - statName: FP Per Game
         statVal: '17.50'
       - statName: Opponent
-        statVal: "/images/teams/JAX.png"
+        statVal: "images/teams/JAX.png"
       name: DeMarco Murray
-      team-image: "/images/teams/TEN.png"
-      image: "/images/players/demarco-murray.png"
+      team-image: "images/teams/TEN.png"
+      image: "images/players/demarco-murray.png"
       number: '29'
       team: Tennesee Titans
       gamesPlayed: '7'
@@ -169,10 +169,10 @@
       - statName: FP Per Game
         statVal: '15.22'
       - statName: Opponent
-        statVal: "/images/teams/NE.png"
+        statVal: "images/teams/NE.png"
       name: Le'Veon Bell
-      team-image: "/images/teams/PIT.png"
-      image: "/images/players/leveon-bell.png"
+      team-image: "images/teams/PIT.png"
+      image: "images/players/leveon-bell.png"
       number: '26'
       team: Pittsburgh Steelers
       gamesPlayed: '4'
@@ -189,10 +189,10 @@
       - statName: FP Per Game
         statVal: '20.91'
       - statName: Opponent
-        statVal: "/images/teams/CAR.png"
+        statVal: "images/teams/CAR.png"
       name: David Johnson
-      team-image: "/images/teams/ARI.png"
-      image: "/images/players/david-johnson.png"
+      team-image: "images/teams/ARI.png"
+      image: "images/players/david-johnson.png"
       number: '31'
       team: Arizona Cardinals
       gamesPlayed: '7'
@@ -209,10 +209,10 @@
       - statName: FP Per Game
         statVal: '15.93'
       - statName: Opponent
-        statVal: "/images/teams/NE.png"
+        statVal: "images/teams/NE.png"
       name: LeSean McCoy
-      team-image: "/images/teams/BUF.png"
-      image: "/images/players/lesean-mccoy.png"
+      team-image: "images/teams/BUF.png"
+      image: "images/players/lesean-mccoy.png"
       number: '25'
       team: Buffalo Bills
       gamesPlayed: '7'
@@ -229,10 +229,10 @@
       - statName: FP Per Game
         statVal: '17.09'
       - statName: Opponent
-        statVal: "/images/teams/DEN.png"
+        statVal: "images/teams/DEN.png"
       name: Melvin Gordon
-      team-image: "/images/teams/SD.png"
-      image: "/images/players/melvin-gordon.png"
+      team-image: "images/teams/SD.png"
+      image: "images/players/melvin-gordon.png"
       number: '28'
       team: San Diego Chargers
       gamesPlayed: '7'
@@ -249,10 +249,10 @@
       - statName: FP Per Game
         statVal: '14.25'
       - statName: Opponent
-        statVal: "/images/teams/TB.png"
+        statVal: "images/teams/TB.png"
       name: Carlos Hyde
-      team-image: "/images/teams/SF.png"
-      image: "/images/players/carlos-hyde.png"
+      team-image: "images/teams/SF.png"
+      image: "images/players/carlos-hyde.png"
       number: '28'
       team: San Franscisco 49ers
       gamesPlayed: '6'
@@ -272,10 +272,10 @@
       - statName: FP Per Game
         statVal: '12.93'
       - statName: Opponent
-        statVal: "/images/teams/NO.png"
+        statVal: "images/teams/NO.png"
       name: Christine Michael
-      team-image: "/images/teams/SEA.png"
-      image: "/images/players/christine-michael.png"
+      team-image: "images/teams/SEA.png"
+      image: "images/players/christine-michael.png"
       number: '32'
       team: Seattle Seahawks
       gamesPlayed: '6'
@@ -292,10 +292,10 @@
       - statName: FP Per Game
         statVal: '11.69'
       - statName: Opponent
-        statVal: "/images/teams/DET.png"
+        statVal: "images/teams/DET.png"
       name: Lamar Miller
-      team-image: "/images/teams/HOU.png"
-      image: "/images/players/lamar-miller.png"
+      team-image: "images/teams/HOU.png"
+      image: "images/players/lamar-miller.png"
       number: '26'
       team: Houston Texans
       gamesPlayed: '7'
@@ -312,10 +312,10 @@
       - statName: FP Per Game
         statVal: '14.95'
       - statName: Opponent
-        statVal: "/images/teams/IND.png"
+        statVal: "images/teams/IND.png"
       name: Spencer Ware
-      team-image: "/images/teams/KC.png"
-      image: "/images/players/spencer-ware.png"
+      team-image: "images/teams/KC.png"
+      image: "images/players/spencer-ware.png"
       number: '32'
       team: Kansas City Chiefs
       gamesPlayed: '6'
@@ -332,10 +332,10 @@
       - statName: FP Per Game
         statVal: '15.10'
       - statName: Opponent
-        statVal: "/images/teams/BUF.png"
+        statVal: "images/teams/BUF.png"
       name: LeGarrette Blount
-      team-image: "/images/teams/NE.png"
-      image: "/images/players/legarrette-blount.png"
+      team-image: "images/teams/NE.png"
+      image: "images/players/legarrette-blount.png"
       number: '29'
       team: New England Patriots
       gamesPlayed: '7'
@@ -352,10 +352,10 @@
       - statName: FP Per Game
         statVal: '13.20'
       - statName: Opponent
-        statVal: "/images/teams/SD.png"
+        statVal: "images/teams/SD.png"
       name: Tevin Coleman
-      team-image: "/images/teams/ATL.png"
-      image: "/images/players/tevin-coleman.png"
+      team-image: "images/teams/ATL.png"
+      image: "images/players/tevin-coleman.png"
       number: '26'
       team: Atlanta Falcons
       gamesPlayed: '7'
@@ -372,10 +372,10 @@
       - statName: FP Per Game
         statVal: '12.24'
       - statName: Opponent
-        statVal: "/images/teams/GB.png"
+        statVal: "images/teams/GB.png"
       name: Devonta Freeman
-      team-image: "/images/teams/ATL.png"
-      image: "/images/players/devonta-freeman.png"
+      team-image: "images/teams/ATL.png"
+      image: "images/players/devonta-freeman.png"
       number: '24'
       team: Atlanta Falcons
       gamesPlayed: '7'
@@ -396,10 +396,10 @@
       - statName: FP Per Game
         statVal: '13.01'
       - statName: Opponent
-        statVal: "/images/teams/NE.png"
+        statVal: "images/teams/NE.png"
       name: Antonio Brown
-      team-image: "/images/teams/PIT.png"
-      image: "/images/players/antonio-brown.png"
+      team-image: "images/teams/PIT.png"
+      image: "images/players/antonio-brown.png"
       number: '84'
       team: Pittsburgh Steelers
       gamesPlayed: '7'
@@ -416,10 +416,10 @@
       - statName: FP Per Game
         statVal: '15.29'
       - statName: Opponent
-        statVal: "/images/teams/GB.png"
+        statVal: "images/teams/GB.png"
       name: Julio Jones
-      team-image: "/images/teams/ATL.png"
-      image: "/images/players/julio-jones.png"
+      team-image: "images/teams/ATL.png"
+      image: "images/players/julio-jones.png"
       number: '11'
       team: Atlanta Falcons
       gamesPlayed: '7'
@@ -436,10 +436,10 @@
       - statName: FP Per Game
         statVal: '15.08'
       - statName: Opponent
-        statVal: "/images/teams/OAK.png"
+        statVal: "images/teams/OAK.png"
       name: Mike Evans
-      team-image: "/images/teams/TB.png"
-      image: "/images/players/mike-evans.png"
+      team-image: "images/teams/TB.png"
+      image: "images/players/mike-evans.png"
       number: '13'
       team: Tampa Bay Buccaneers
       gamesPlayed: '6'
@@ -456,10 +456,10 @@
       - statName: FP Per Game
         statVal: '11.29'
       - statName: Opponent
-        statVal: "/images/teams/LA.png"
+        statVal: "images/teams/LA.png"
       name: Odell Beckham
-      team-image: "/images/teams/NYG.png"
-      image: "/images/players/odell-beckham.png"
+      team-image: "images/teams/NYG.png"
+      image: "images/players/odell-beckham.png"
       number: '13'
       team: New York Giants
       gamesPlayed: '7'
@@ -476,10 +476,10 @@
       - statName: FP Per Game
         statVal: '13.27'
       - statName: Opponent
-        statVal: "/images/teams/KC.png"
+        statVal: "images/teams/KC.png"
       name: T.Y. Hilton
-      team-image: "/images/teams/IND.png"
-      image: "/images/players/ty-hilton.png"
+      team-image: "images/teams/IND.png"
+      image: "images/players/ty-hilton.png"
       number: '13'
       team: Indianapolis Colts
       gamesPlayed: '7'
@@ -496,10 +496,10 @@
       - statName: FP Per Game
         statVal: '13.64'
       - statName: Opponent
-        statVal: "/images/teams/WAS.png"
+        statVal: "images/teams/WAS.png"
       name: A.J. Green
-      team-image: "/images/teams/CIN.png"
-      image: "/images/players/aj-green.png"
+      team-image: "images/teams/CIN.png"
+      image: "images/players/aj-green.png"
       number: '18'
       team: Cincinnati Bengals
       gamesPlayed: '7'
@@ -519,10 +519,10 @@
       - statName: FP Per Game
         statVal: '12.37'
       - statName: Opponent
-        statVal: "/images/teams/HOU.png"
+        statVal: "images/teams/HOU.png"
       name: Marvin Jones
-      team-image: "/images/teams/DET.png"
-      image: "/images/players/marvin-jones.png"
+      team-image: "images/teams/DET.png"
+      image: "images/players/marvin-jones.png"
       number: '11'
       team: Detroit Lions
       gamesPlayed: '7'
@@ -539,10 +539,10 @@
       - statName: FP Per Game
         statVal: '12.42'
       - statName: Opponent
-        statVal: "/images/teams/SEA.png"
+        statVal: "images/teams/SEA.png"
       name: Brandin Cooks
-      team-image: "/images/teams/NO.png"
-      image: "/images/players/brandin-cooks.png"
+      team-image: "images/teams/NO.png"
+      image: "images/players/brandin-cooks.png"
       number: '10'
       team: Kansas City Chiefs
       gamesPlayed: '6'
@@ -559,10 +559,10 @@
       - statName: FP Per Game
         statVal: '11.21'
       - statName: Opponent
-        statVal: "/images/teams/CAR.png"
+        statVal: "images/teams/CAR.png"
       name: Larry Fitzgerald
-      team-image: "/images/teams/ARI.png"
-      image: "/images/players/larry-fitzgerald.png"
+      team-image: "images/teams/ARI.png"
+      image: "images/players/larry-fitzgerald.png"
       number: '11'
       team: Arizona Cardinals
       gamesPlayed: '7'
@@ -579,10 +579,10 @@
       - statName: FP Per Game
         statVal: '10.12'
       - statName: Opponent
-        statVal: "/images/teams/NYJ.png"
+        statVal: "images/teams/NYJ.png"
       name: Terrelle Pryor
-      team-image: "/images/teams/CLE.png"
-      image: "/images/players/terrelle-pryor.png"
+      team-image: "images/teams/CLE.png"
+      image: "images/players/terrelle-pryor.png"
       number: '11'
       team: Cleveland Browns
       gamesPlayed: '7'
@@ -599,10 +599,10 @@
       - statName: FP Per Game
         statVal: '10.20'
       - statName: Opponent
-        statVal: "/images/teams/TB.png"
+        statVal: "images/teams/TB.png"
       name: Amari Cooper
-      team-image: "/images/teams/OAK.png"
-      image: "/images/players/amari-cooper.png"
+      team-image: "images/teams/OAK.png"
+      image: "images/players/amari-cooper.png"
       number: '89'
       team: Oakland Raiders
       gamesPlayed: '7'
@@ -619,10 +619,10 @@
       - statName: FP Per Game
         statVal: '12.01'
       - statName: Opponent
-        statVal: "/images/teams/TB.png"
+        statVal: "images/teams/TB.png"
       name: Michael Crabtree
-      team-image: "/images/teams/OAK.png"
-      image: "/images/players/michael-crabtree.png"
+      team-image: "images/teams/OAK.png"
+      image: "images/players/michael-crabtree.png"
       number: '15'
       team: Oakland Raiders
       gamesPlayed: '7'
@@ -643,10 +643,10 @@
       - statName: FP Per Game
         statVal: '11.43'
       - statName: Opponent
-        statVal: "/images/teams/DEN.png"
+        statVal: "images/teams/DEN.png"
       name: Greg Olsen
-      team-image: "/images/teams/CAR.png"
-      image: "/images/players/greg-olsen.png"
+      team-image: "images/teams/CAR.png"
+      image: "images/players/greg-olsen.png"
       number: '88'
       team: Carolina Panthers
       gamesPlayed: '6'
@@ -663,10 +663,10 @@
       - statName: FP Per Game
         statVal: '13.30'
       - statName: Opponent
-        statVal: "/images/teams/BUF.png"
+        statVal: "images/teams/BUF.png"
       name: Rob Gronkowski
-      team-image: "/images/teams/NE.png"
-      image: "/images/players/rob-gronkowski.png"
+      team-image: "images/teams/NE.png"
+      image: "images/players/rob-gronkowski.png"
       number: '87'
       team: New England Patriots
       gamesPlayed: '5'
@@ -683,10 +683,10 @@
       - statName: FP Per Game
         statVal: '11.97'
       - statName: Opponent
-        statVal: "/images/teams/NO.png"
+        statVal: "images/teams/NO.png"
       name: Jimmy Graham
-      team-image: "/images/teams/SEA.png"
-      image: "/images/players/jimmy-graham.png"
+      team-image: "images/teams/SEA.png"
+      image: "images/players/jimmy-graham.png"
       number: '88'
       team: Seattle Seahawks
       gamesPlayed: '6'
@@ -703,10 +703,10 @@
       - statName: FP Per Game
         statVal: '12.61'
       - statName: Opponent
-        statVal: "/images/teams/BUF.png"
+        statVal: "images/teams/BUF.png"
       name: Martellus Bennett
-      team-image: "/images/teams/NE.png"
-      image: "/images/players/martellus-bennett.png"
+      team-image: "images/teams/NE.png"
+      image: "images/players/martellus-bennett.png"
       number: '83'
       team: New England Patriots
       gamesPlayed: '7'
@@ -723,10 +723,10 @@
       - statName: FP Per Game
         statVal: '11.22'
       - statName: Opponent
-        statVal: "/images/teams/SEA.png"
+        statVal: "images/teams/SEA.png"
       name: Coby Fleener
-      team-image: "/images/teams/NO.png"
-      image: "/images/players/coby-fleener.png"
+      team-image: "images/teams/NO.png"
+      image: "images/players/coby-fleener.png"
       number: '80'
       team: New Orleans Saints
       gamesPlayed: '6'
@@ -743,10 +743,10 @@
       - statName: FP Per Game
         statVal: '12.18'
       - statName: Opponent
-        statVal: "/images/teams/CHI.png"
+        statVal: "images/teams/CHI.png"
       name: Kyle Rudolph
-      team-image: "/images/teams/MIN.png"
-      image: "/images/players/kyle-rudolph.png"
+      team-image: "images/teams/MIN.png"
+      image: "images/players/kyle-rudolph.png"
       number: '82'
       team: Minnesota Vikings
       gamesPlayed: '6'
@@ -767,10 +767,10 @@
       - statName: FP Per Game
         statVal: '6.86'
       - statName: Opponent
-        statVal: "/images/teams/BUF.png"
+        statVal: "images/teams/BUF.png"
       name: Stephen Gostkowski
-      team-image: "/images/teams/NE.png"
-      image: "/images/players/stephen-gostkowski.png"
+      team-image: "images/teams/NE.png"
+      image: "images/players/stephen-gostkowski.png"
       number: '3'
       team: New England Patriots
       gamesPlayed: '7'
@@ -787,10 +787,10 @@
       - statName: FP Per Game
         statVal: '11.14'
       - statName: Opponent
-        statVal: "/images/teams/BAL.png"
+        statVal: "images/teams/BAL.png"
       name: Justin Tucker
-      team-image: "/images/teams/BAL.png"
-      image: "/images/players/justin-tucker.png"
+      team-image: "images/teams/BAL.png"
+      image: "images/players/justin-tucker.png"
       number: '9'
       team: Baltimore Ravens
       gamesPlayed: '7'
@@ -807,10 +807,10 @@
       - statName: FP Per Game
         statVal: '9.71'
       - statName: Opponent
-        statVal: "/images/teams/CIN.png"
+        statVal: "images/teams/CIN.png"
       name: Dustin Hopkins
-      team-image: "/images/teams/WAS.png"
-      image: "/images/players/dustin-hopkins.png"
+      team-image: "images/teams/WAS.png"
+      image: "images/players/dustin-hopkins.png"
       number: '3'
       team: Washington Redskins
       gamesPlayed: '7'
@@ -827,10 +827,10 @@
       - statName: FP Per Game
         statVal: '10.43'
       - statName: Opponent
-        statVal: "/images/teams/GB.png"
+        statVal: "images/teams/GB.png"
       name: Matt Bryant
-      team-image: "/images/teams/ATL.png"
-      image: "/images/players/matt-bryant.png"
+      team-image: "images/teams/ATL.png"
+      image: "images/players/matt-bryant.png"
       number: '3'
       team: Atlanta Falcons
       gamesPlayed: '7'
@@ -847,10 +847,10 @@
       - statName: FP Per Game
         statVal: '8.83'
       - statName: Opponent
-        statVal: "/images/teams/ATL.png"
+        statVal: "images/teams/ATL.png"
       name: Mason Crosby
-      team-image: "/images/teams/GB.png"
-      image: "/images/players/mason-crosby.png"
+      team-image: "images/teams/GB.png"
+      image: "images/players/mason-crosby.png"
       number: '2'
       team: Green Bay Packers
       gamesPlayed: '6'
@@ -867,10 +867,10 @@
       - statName: FP Per Game
         statVal: '10.71'
       - statName: Opponent
-        statVal: "/images/teams/DEN.png"
+        statVal: "images/teams/DEN.png"
       name: Josh Lambo
-      team-image: "/images/teams/SD.png"
-      image: "/images/players/josh-lambo.png"
+      team-image: "images/teams/SD.png"
+      image: "images/players/josh-lambo.png"
       number: '2'
       team: San Diego Chargers
       gamesPlayed: '7'
@@ -890,10 +890,10 @@
       - statName: FP Per Game
         statVal: '15.17'
       - statName: Opponent
-        statVal: "/images/teams/CHI.png"
+        statVal: "images/teams/CHI.png"
       name: Minnesota Vikings
-      team-image: "/images/teams/MIN.png"
-      image: "/images/teams/MIN.png"
+      team-image: "images/teams/MIN.png"
+      image: "images/teams/MIN.png"
       number: ''
       team: ''
       gamesPlayed: '6'
@@ -910,10 +910,10 @@
       - statName: FP Per Game
         statVal: '10.71'
       - statName: Opponent
-        statVal: "/images/teams/NE.png"
+        statVal: "images/teams/NE.png"
       name: Buffalo Bills
-      team-image: "/images/teams/BUF.png"
-      image: "/images/teams/BUF.png"
+      team-image: "images/teams/BUF.png"
+      image: "images/teams/BUF.png"
       number: ''
       team: ''
       gamesPlayed: '7'
@@ -930,10 +930,10 @@
       - statName: FP Per Game
         statVal: '13.33'
       - statName: Opponent
-        statVal: "/images/teams/DAL.png"
+        statVal: "images/teams/DAL.png"
       name: Philadelphia Eagles
-      team-image: "/images/teams/PHI.png"
-      image: "/images/teams/PHI.png"
+      team-image: "images/teams/PHI.png"
+      image: "images/teams/PHI.png"
       number: ''
       team: ''
       gamesPlayed: '6'
@@ -950,10 +950,10 @@
       - statName: FP Per Game
         statVal: '11.00'
       - statName: Opponent
-        statVal: "/images/teams/CAR.png"
+        statVal: "images/teams/CAR.png"
       name: Arizona Cardinals
-      team-image: "/images/teams/ARI.png"
-      image: "/images/teams/ARI.png"
+      team-image: "images/teams/ARI.png"
+      image: "images/teams/ARI.png"
       number: ''
       team: ''
       gamesPlayed: '7'
@@ -970,10 +970,10 @@
       - statName: FP Per Game
         statVal: '10.33'
       - statName: Opponent
-        statVal: "/images/teams/IND.png"
+        statVal: "images/teams/IND.png"
       name: Kansas City Chiefs
-      team-image: "/images/teams/KC.png"
-      image: "/images/teams/KC.png"
+      team-image: "images/teams/KC.png"
+      image: "images/teams/KC.png"
       number: ''
       team: ''
       gamesPlayed: '6'
@@ -990,10 +990,10 @@
       - statName: FP Per Game
         statVal: '8.17'
       - statName: Opponent
-        statVal: "/images/teams/NO.png"
+        statVal: "images/teams/NO.png"
       name: Seattle Seahawks
-      team-image: "/images/teams/SEA.png"
-      image: "/images/teams/SEA.png"
+      team-image: "images/teams/SEA.png"
+      image: "images/teams/SEA.png"
       number: ''
       team: ''
       gamesPlayed: '6'
