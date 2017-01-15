@@ -1,0 +1,482 @@
+@font-face {
+  font-family: "NFLFont";
+  src: url("/medium-cond.ttf") format("truetype"); }
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "NFLFont"; }
+
+html {
+  background-image: url("/images/field1.jpg");
+  background-size: cover;
+  background-position: center -250px;
+  background-attachment: fixed; }
+
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row; }
+  body .menu {
+    position: fixed;
+    display: flex;
+    width: 16vw;
+    height: 100vh;
+    background: linear-gradient(to bottom, #1493ff 0%, #0d64c8 100%);
+    border-right: 4px solid #0b42a6;
+    flex-direction: column;
+    justify-content: space-between; }
+    body .menu #logo {
+      width: 16vw;
+      height: auto;
+      border-bottom: 2px solid #0b42a6; }
+    body .menu .week-shifter {
+      display: flex;
+      flex-direction: row;
+      margin: 0 auto;
+      width: 90%;
+      justify-content: space-between; }
+      body .menu .week-shifter .week-left {
+        transform: rotate(90deg);
+        height: 5vh;
+        width: 5vh;
+        transition: 0.3s; }
+        body .menu .week-shifter .week-left:hover {
+          -webkit-filter: brightness(30%);
+          filter: brightness(30%); }
+      body .menu .week-shifter .week-right {
+        transform: rotate(-90deg);
+        height: 5vh;
+        width: 5vh;
+        transition: 0.3s; }
+        body .menu .week-shifter .week-right:hover {
+          -webkit-filter: brightness(30%);
+          filter: brightness(30%); }
+      body .menu .week-shifter h2 {
+        color: #fff;
+        margin: auto 0; }
+    body .menu .links li {
+      list-style-type: none;
+      width: 100%;
+      height: 4vh;
+      text-align: center;
+      display: flex;
+      border: 1px solid #0b42a6;
+      border-left: none;
+      border-right: none; }
+      body .menu .links li:first-child {
+        border-top-width: 2px; }
+      body .menu .links li:hover {
+        background-color: #1493ff; }
+      body .menu .links li a {
+        text-decoration: none;
+        margin: auto;
+        width: 100%; }
+        body .menu .links li a h3 {
+          color: #fff;
+          letter-spacing: 2px;
+          margin: auto; }
+    body .menu .lineup {
+      height: 48vh;
+      width: 100%; }
+      body .menu .lineup li {
+        list-style-type: none;
+        border-bottom: 2px solid #0b42a6;
+        height: 6vh;
+        width: 80%;
+        margin: auto;
+        display: flex; }
+        body .menu .lineup li h3 {
+          color: #eee;
+          font-size: 4vh;
+          margin: auto auto 0 auto;
+          transition: 0.5s;
+          opacity: 0; }
+        body .menu .lineup li .pick-circle {
+          display: flex;
+          height: 4.9vh;
+          width: 4.9vh;
+          background-color: #aaa;
+          margin: auto 0 2px auto;
+          border-radius: 2.3vh;
+          border: 2px solid #0b42a6;
+          background-size: cover;
+          box-sizing: border-box;
+          transition: 0.5s; }
+          body .menu .lineup li .pick-circle h5 {
+            margin: auto;
+            font-size: 2.2vh;
+            color: #777; }
+    body .menu button {
+      width: 60%;
+      height: 4vh;
+      margin: 0 auto;
+      font-size: 2.5vh;
+      border-radius: 2vh;
+      border: 2px solid #fff;
+      background: transparent;
+      color: #fff;
+      transition: 0.5s;
+      letter-spacing: 2px; }
+      body .menu button:hover {
+        color: #0F70D6;
+        background: #fff; }
+      body .menu button:focus {
+        outline: none; }
+      body .menu button:active {
+        background: #bbb;
+        border-color: #bbb; }
+
+.positions {
+  display: flex;
+  flex-direction: column;
+  width: 84%;
+  margin: 0 0 0 auto; }
+  .positions .position-class {
+    position: relative; }
+    .positions .position-class .position-card {
+      display: flex;
+      flex-direction: row;
+      margin: 0 auto;
+      width: 100%;
+      height: 12.5vh;
+      position: relative; }
+      .positions .position-class .position-card #rightNew {
+        -webkit-filter: brightness(115%);
+        filter: brightness(115%); }
+      .positions .position-class .position-card #leftNew {
+        -webkit-filter: brightness(115%);
+        filter: brightness(115%); }
+      .positions .position-class .position-card #rightOld {
+        -webkit-filter: brightness(85%);
+        filter: brightness(85%); }
+      .positions .position-class .position-card #leftOld {
+        -webkit-filter: brightness(85%);
+        filter: brightness(85%); }
+      .positions .position-class .position-card .chosen-player .player-prof {
+        background: #fff; }
+      .positions .position-class .position-card .chosen-player2 .player-prof {
+        background: #fff; }
+      .positions .position-class .position-card .other-player {
+        -webkit-filter: blur(2px);
+        filter: blur(2px); }
+        .positions .position-class .position-card .other-player .player-prof {
+          background: #bbb;
+          -webkit-filter: grayscale(90%);
+          filter: grayscale(90%); }
+        .positions .position-class .position-card .other-player .player-stats .stats-background {
+          -webkit-filter: grayscale(90%);
+          filter: grayscale(90%); }
+      .positions .position-class .position-card .player {
+        display: flex;
+        width: 45%;
+        height: 100%;
+        box-sizing: border-box;
+        border-top: 2px solid #222;
+        flex-direction: row;
+        text-align: center;
+        position: relative;
+        background: #ddd; }
+        .positions .position-class .position-card .player .player-prof {
+          padding: 10px 0px;
+          display: flex;
+          flex-direction: column;
+          width: 18%;
+          background: #ddd; }
+          .positions .position-class .position-card .player .player-prof img {
+            border-radius: 20%;
+            max-width: 180px;
+            width: 56%;
+            margin: auto; }
+          .positions .position-class .position-card .player .player-prof h4, .positions .position-class .position-card .player .player-prof h5 {
+            margin: auto; }
+        .positions .position-class .position-card .player .player-stats {
+          font-size: 0;
+          display: flex;
+          flex-direction: row;
+          height: 100%;
+          width: 82%;
+          flex-wrap: wrap;
+          justify-content: space-around;
+          align-content: space-around; }
+          .positions .position-class .position-card .player .player-stats .stats-background {
+            position: absolute;
+            z-index: 0;
+            height: 100%;
+            width: 82%;
+            background-size: 60%;
+            background-position: center center;
+            background-repeat: no-repeat; }
+          .positions .position-class .position-card .player .player-stats .team-color {
+            display: none; }
+          .positions .position-class .position-card .player .player-stats .stat1 {
+            position: relative;
+            width: 26%;
+            height: 45%;
+            font-size: 10px;
+            box-shadow: 5px 5px 10px 0px #222;
+            border-radius: 5px; }
+            .positions .position-class .position-card .player .player-stats .stat1 .stat-title {
+              display: flex;
+              font-size: 1.4vmin;
+              height: 35%;
+              background: linear-gradient(to bottom, #f0f0f0 0%, #969696 100%);
+              border-top-left-radius: 5px;
+              border-top-right-radius: 5px; }
+              .positions .position-class .position-card .player .player-stats .stat1 .stat-title h3 {
+                margin: auto; }
+            .positions .position-class .position-card .player .player-stats .stat1 .stat-value {
+              display: flex;
+              height: 65%;
+              background: rgba(240, 240, 240, 0.82);
+              border-bottom-left-radius: 5px;
+              border-bottom-right-radius: 5px;
+              overflow: hidden; }
+              .positions .position-class .position-card .player .player-stats .stat1 .stat-value h4 {
+                font-size: 1vw;
+                position: absolute;
+                padding-left: 0.1vw; }
+              .positions .position-class .position-card .player .player-stats .stat1 .stat-value .green-triangle {
+                position: relative;
+                top: -35px;
+                left: -30px;
+                width: 50px;
+                height: 50px;
+                transform: rotate(45deg);
+                background: #00c073;
+                box-shadow: 3px 3px 7px -1px #222;
+                margin-right: -50px; }
+              .positions .position-class .position-card .player .player-stats .stat1 .stat-value .yellow-triangle {
+                position: relative;
+                top: -35px;
+                left: -30px;
+                width: 50px;
+                height: 50px;
+                transform: rotate(45deg);
+                background: #dba608;
+                box-shadow: 3px 3px 7px -1px #222;
+                margin-right: -50px; }
+              .positions .position-class .position-card .player .player-stats .stat1 .stat-value h3 {
+                font-size: 2.1vw;
+                margin: auto;
+                position: relative; }
+              .positions .position-class .position-card .player .player-stats .stat1 .stat-value img {
+                height: 110%;
+                margin: auto; }
+      .positions .position-class .position-card .player .expanded {
+        display: flex;
+        width: 45%;
+        height: 100%;
+        box-sizing: border-box;
+        border-top: 2px solid #222;
+        flex-direction: row;
+        text-align: center;
+        position: relative;
+        background: #ddd; }
+        .positions .position-class .position-card .player .expanded .player-prof {
+          padding: 10px 0px;
+          display: flex;
+          flex-direction: column;
+          width: 18%;
+          background: #ddd; }
+          .positions .position-class .position-card .player .expanded .player-prof img {
+            border-radius: 20%;
+            max-width: 180px;
+            width: 56%;
+            margin: auto; }
+          .positions .position-class .position-card .player .expanded .player-prof h4, .positions .position-class .position-card .player .expanded .player-prof h5 {
+            margin: auto; }
+        .positions .position-class .position-card .player .expanded .player-stats {
+          font-size: 0;
+          display: flex;
+          flex-direction: row;
+          height: 100%;
+          width: 82%;
+          flex-wrap: wrap;
+          justify-content: space-around;
+          align-content: space-around; }
+          .positions .position-class .position-card .player .expanded .player-stats .stats-background {
+            position: absolute;
+            z-index: 0;
+            height: 100%;
+            width: 82%;
+            background-size: 60%;
+            background-position: center center;
+            background-repeat: no-repeat; }
+          .positions .position-class .position-card .player .expanded .player-stats .team-color {
+            display: none; }
+          .positions .position-class .position-card .player .expanded .player-stats .stat1 {
+            position: relative;
+            width: 26%;
+            height: 45%;
+            font-size: 10px;
+            box-shadow: 5px 5px 10px 0px #222;
+            border-radius: 5px; }
+            .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-title {
+              display: flex;
+              font-size: 1.4vmin;
+              height: 35%;
+              background: linear-gradient(to bottom, #f0f0f0 0%, #969696 100%);
+              border-top-left-radius: 5px;
+              border-top-right-radius: 5px; }
+              .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-title h3 {
+                margin: auto; }
+            .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-value {
+              display: flex;
+              height: 65%;
+              background: rgba(240, 240, 240, 0.92);
+              border-bottom-left-radius: 5px;
+              border-bottom-right-radius: 5px;
+              overflow: hidden; }
+              .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-value h4 {
+                font-size: 1vw;
+                position: absolute;
+                padding-left: 0.1vw; }
+              .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-value .green-triangle {
+                position: relative;
+                top: -35px;
+                left: -30px;
+                width: 50px;
+                height: 50px;
+                transform: rotate(45deg);
+                background: #00c073;
+                box-shadow: 3px 3px 7px -1px #222;
+                margin-right: -50px; }
+              .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-value .yellow-triangle {
+                position: relative;
+                top: -35px;
+                left: -30px;
+                width: 50px;
+                height: 50px;
+                transform: rotate(45deg);
+                background: #dba608;
+                box-shadow: 3px 3px 7px -1px #222;
+                margin-right: -50px; }
+              .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-value h3 {
+                font-size: 2.1vw;
+                margin: auto;
+                position: relative; }
+              .positions .position-class .position-card .player .expanded .player-stats .stat1 .stat-value img {
+                height: 110%;
+                margin: auto; }
+      .positions .position-class .position-card .player1 .player-prof {
+        order: 2; }
+      .positions .position-class .position-card .player2 .player-stats .stat {
+        border-top-right-radius: 10px;
+        border-top-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 10px; }
+      .positions .position-class .position-card .position {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 10%;
+        background: #888;
+        border-top: 2px solid #222; }
+        .positions .position-class .position-card .position h2 {
+          margin: 0 auto;
+          color: white;
+          letter-spacing: 1px; }
+        .positions .position-class .position-card .position img {
+          position: relative;
+          width: 60%;
+          height: 25%;
+          margin: 0 auto;
+          transition: 0.3s; }
+          .positions .position-class .position-card .position img:hover {
+            -webkit-filter: brightness(30%);
+            filter: brightness(30%); }
+        .positions .position-class .position-card .position .switch-matchup {
+          width: 80%;
+          height: 3vh;
+          margin: 0 auto;
+          font-size: 1.3vh;
+          border-radius: 2vh;
+          border: 2px solid #fff;
+          background: #1493ff;
+          color: #fff;
+          transition: 0.5s;
+          letter-spacing: 2px; }
+          .positions .position-class .position-card .position .switch-matchup:hover {
+            color: #1493ff;
+            background: #fff; }
+          .positions .position-class .position-card .position .switch-matchup:focus {
+            outline: none; }
+          .positions .position-class .position-card .position .switch-matchup:active {
+            background: #bbb;
+            border-color: #bbb; }
+      .positions .position-class .position-card .chosen-matchup {
+        background: #1493FF; }
+        .positions .position-class .position-card .chosen-matchup .matchup-expander {
+          transform: scaleY(1); }
+    .positions .position-class .matchup-card {
+      z-index: 1; }
+
+.toggler {
+  margin: 0 auto;
+  width: 6vmax;
+  height: 2.2vmax;
+  background: lightgrey;
+  border-radius: 35px;
+  box-shadow: 0px 0px 10px -2px black; }
+  .toggler .circle {
+    height: 2.2vmax;
+    width: 2.2vmax;
+    background: #e8e8e8;
+    border-radius: 32px;
+    position: relative;
+    margin-left: 1.9vmax;
+    box-sizing: border-box;
+    border: 2.5px solid #4DD865;
+    box-shadow: 0 0 17px #4DD865;
+    transition: 0.4s; }
+
+.results .positions {
+  display: flex;
+  flex-direction: row;
+  background: #ddd;
+  width: 80%;
+  height: 80vh;
+  margin: auto;
+  align-content: space-around; }
+  .results .positions .players-points {
+    display: flex;
+    flex-direction: column;
+    width: 11.1%;
+    text-align: center;
+    position: relative; }
+    .results .positions .players-points .chosen-player {
+      height: 25%; }
+      .results .positions .players-points .chosen-player .player-pic {
+        display: block;
+        width: 95%;
+        margin: auto; }
+    .results .positions .players-points .chosen-player-points {
+      display: flex;
+      height: 25%;
+      background-size: 65%;
+      background-position: center;
+      background-repeat: no-repeat; }
+      .results .positions .players-points .chosen-player-points h1 {
+        margin: auto;
+        color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
+    .results .positions .players-points .other-player-points {
+      display: flex;
+      height: 25%; }
+      .results .positions .players-points .other-player-points h1 {
+        margin: auto; }
+    .results .positions .players-points .other-player {
+      display: flex;
+      flex-direction: column;
+      height: 25%;
+      justify-content: space-around; }
+      .results .positions .players-points .other-player .player-pic {
+        display: block;
+        width: 95%;
+        margin: 0 auto; }
+  .results .positions .overall-score {
+    width: 11.1%;
+    background: #eee; }
+
+/*# sourceMappingURL=style.css.map */

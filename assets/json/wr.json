@@ -1,0 +1,422 @@
+[
+  {
+    "team-color": "#FFB60C",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "81.0"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "6.8"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.8"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "20.0"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/new-england-patriots.png"
+      }
+    ],
+    "name": "Antonio Brown",
+    "team-image": "/images/teams/pittsburgh-steelers.png",
+    "image": "/images/players/antonio-brown.png",
+    "number": "84",
+    "team": "Pittsburgh Steelers",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#A71930",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "109.3"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "5.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.7"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "20.13"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/san-diego-chargers.png"
+      }
+    ],
+    "name": "Julio Jones",
+    "team-image": "/images/teams/atlanta-falcons.png",
+    "image": "/images/players/julio-jones.png",
+    "number": "11",
+    "team": "Atlanta Falcons",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#D40909",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "89.8"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "6.4"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.8"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "20.18"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/san-francisco-49ers.png"
+      }
+    ],
+    "name": "Mike Evans",
+    "team-image": "/images/teams/tampa-bay-buccaneers.png",
+    "image": "/images/players/mike-evans.png",
+    "number": "13",
+    "team": "Tampa Bay Buccaneers",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#20285D",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "96.8"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "5.8"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.5"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "18.15"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/los-angeles-rams.png"
+      }
+    ],
+    "name": "Odell Beckham",
+    "team-image": "/images/teams/new-york-giants.png",
+    "image": "/images/players/odell-beckham.png",
+    "number": "13",
+    "team": "New York Giants",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#003B6C",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "92.7"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "6.3"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.5"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "18.57"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/tennessee-titans.png"
+      }
+    ],
+    "name": "T.Y. Hilton",
+    "team-image": "/images/teams/indianapolis-colts.png",
+    "image": "/images/players/ty-hilton.png",
+    "number": "13",
+    "team": "Indianapolis Colts",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#F8492E",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "101.0"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "7.0"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.3"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "19.1"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/san-diego-chargers.png"
+      }
+    ],
+    "name": "A.J. Green",
+    "team-image": "/images/teams/cincinnati-bengals.png",
+    "image": "/images/players/aj-green.png",
+    "number": "18",
+    "team": "Cincinnati Bengals",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#006DB0",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "88.2"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "4.8"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.7"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "17.67"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/washington-redskins.png"
+      }
+    ],
+    "name": "Marvin Jones",
+    "team-image": "/images/teams/detroit-lions.png",
+    "image": "/images/players/marvin-jones.png",
+    "number": "11",
+    "team": "Detroit Lions",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#A08A58",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "85.6"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "5.0"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.6"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "17.54"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/kansas-city-chiefs.png"
+      }
+    ],
+    "name": "Brandin Cooks",
+    "team-image": "/images/teams/new-orleans-saints.png",
+    "image": "/images/players/brandin-cooks.png",
+    "number": "10",
+    "team": "Kansas City Chiefs",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#B0063A",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "68.3"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "6.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.8"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "18.12"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/seattle-seahawks.png"
+      }
+    ],
+    "name": "Larry Fitzgerald",
+    "team-image": "/images/teams/arizona-cardinals.png",
+    "image": "/images/players/larry-fitzgerald.png",
+    "number": "11",
+    "team": "Arizona Cardinals",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#EF4123",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "68.8"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "5.5"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.5"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "17.01"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/cincinnati-bengals.png"
+      }
+    ],
+    "name": "Terrelle Pryor",
+    "team-image": "/images/teams/cleveland-browns.png",
+    "image": "/images/players/terrelle-pryor.png",
+    "number": "11",
+    "team": "Cleveland Browns",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#000000",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "97.5"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "6.0"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.2"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "17.42"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/jacksonville-jaguars.png"
+      }
+    ],
+    "name": "Amari Cooper",
+    "team-image": "/images/teams/oakland-raiders.png",
+    "image": "/images/players/amari-cooper.png",
+    "number": "89",
+    "team": "Oakland Raiders",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#000000",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "60.8"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "5.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.8"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "16.62"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/jacksonville-jaguars.png"
+      }
+    ],
+    "name": "Michael Crabtree",
+    "team-image": "/images/teams/oakland-raiders.png",
+    "image": "/images/players/michael-crabtree.png",
+    "number": "15",
+    "team": "Oakland Raiders",
+    "gamesPlayed": "6"
+  }
+]

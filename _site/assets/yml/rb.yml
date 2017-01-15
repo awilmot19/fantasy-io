@@ -1,0 +1,241 @@
+---
+- team-color: "#4095D1"
+  stats:
+  - statName: Rushing YPG
+    statVal: '90.4'
+  - statName: Receiving YPG
+    statVal: '27.4'
+  - statName: TD Per Game
+    statVal: '1.0'
+  - statName: FPA Opponents
+    statVal: '4.1'
+  - statName: FP Per Game
+    statVal: '17.50'
+  - statName: Opponent
+    statVal: "/images/teams/JAX.png"
+  name: DeMarco Murray
+  team-image: "/images/teams/TEN.png"
+  image: "/images/players/demarco-murray.png"
+  number: '29'
+  team: Tennesee Titans
+  gamesPlayed: '7'
+- team-color: "#FFB60C"
+  stats:
+  - statName: Rushing YPG
+    statVal: '86.0'
+  - statName: Receiving YPG
+    statVal: '61.3'
+  - statName: TD Per Game
+    statVal: '0.0'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '15.22'
+  - statName: Opponent
+    statVal: "/images/teams/new-england-patriots.png"
+  name: Le'Veon Bell
+  team-image: "/images/teams/PIT.png"
+  image: "/images/players/leveon-bell.png"
+  number: '26'
+  team: Pittsburgh Steelers
+  gamesPlayed: '4'
+- team-color: "#B0063A"
+  stats:
+  - statName: Rushing YPG
+    statVal: '97.3'
+  - statName: Receiving YPG
+    statVal: '46.1'
+  - statName: TD Per Game
+    statVal: '1.1'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '20.91'
+  - statName: Opponent
+    statVal: "/images/teams/CAR.png"
+  name: David Johnson
+  team-image: "/images/teams/ARI.png"
+  image: "/images/players/david-johnson.png"
+  number: '31'
+  team: Arizona Cardinals
+  gamesPlayed: '7'
+- team-color: "#005596"
+  stats:
+  - statName: Rushing YPG
+    statVal: '85.4'
+  - statName: Receiving YPG
+    statVal: '13.9'
+  - statName: TD Per Game
+    statVal: '1.0'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '15.93'
+  - statName: Opponent
+    statVal: "/images/teams/NE.png"
+  name: LeSean McCoy
+  team-image: "/images/teams/BUF.png"
+  image: "/images/players/lesean-mccoy.png"
+  number: '25'
+  team: Buffalo Bills
+  gamesPlayed: '7'
+- team-color: "#00295b"
+  stats:
+  - statName: Rushing YPG
+    statVal: '65.9'
+  - statName: Receiving YPG
+    statVal: '25.0'
+  - statName: TD Per Game
+    statVal: '1.4'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '17.09'
+  - statName: Opponent
+    statVal: "/images/teams/DEN.png"
+  name: Melvin Gordon
+  team-image: "/images/teams/SD.png"
+  image: "/images/players/melvin-gordon.png"
+  number: '28'
+  team: San Diego Chargers
+  gamesPlayed: '7'
+- team-color: "#C9243F"
+  stats:
+  - statName: Rushing YPG
+    statVal: '71.5'
+  - statName: Receiving YPG
+    statVal: '11.0'
+  - statName: TD Per Game
+    statVal: '1.0'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '14.25'
+  - statName: Opponent
+    statVal: "/images/teams/tampa-bay-buccaneers.png"
+  name: Carlos Hyde
+  team-image: "/images/teams/SF.png"
+  image: "/images/players/carlos-hyde.png"
+  number: '28'
+  team: San Franscisco 49ers
+  gamesPlayed: '6'
+- team-color: "#002245"
+  stats:
+  - statName: Rushing YPG
+    statVal: '67.7'
+  - statName: Receiving YPG
+    statVal: '15.0'
+  - statName: TD Per Game
+    statVal: '0.8'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '12.93'
+  - statName: Opponent
+    statVal: "/images/teams/NO.png"
+  name: Christine Michael
+  team-image: "/images/teams/SEA.png"
+  image: "/images/players/christine-michael.png"
+  number: '32'
+  team: Seattle Seahawks
+  gamesPlayed: '6'
+- team-color: "#00123F"
+  stats:
+  - statName: Rushing YPG
+    statVal: '83.0'
+  - statName: Receiving YPG
+    statVal: '16.7'
+  - statName: TD Per Game
+    statVal: '0.3'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.69'
+  - statName: Opponent
+    statVal: "/images/teams/DET.png"
+  name: Lamar Miller
+  team-image: "/images/teams/HOU.png"
+  image: "/images/players/lamar-miller.png"
+  number: '26'
+  team: Houston Texans
+  gamesPlayed: '7'
+- team-color: "#E31837"
+  stats:
+  - statName: Rushing YPG
+    statVal: '82.0'
+  - statName: Receiving YPG
+    statVal: '47.5'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '14.95'
+  - statName: Opponent
+    statVal: "/images/teams/IND.png"
+  name: Spencer Ware
+  team-image: "/images/teams/KC.png"
+  image: "/images/players/spencer-ware.png"
+  number: '32'
+  team: Kansas City Chiefs
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Rushing YPG
+    statVal: '80.9'
+  - statName: Receiving YPG
+    statVal: '4.4'
+  - statName: TD Per Game
+    statVal: '1.1'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '15.10'
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+  name: LeGarrette Blount
+  team-image: "/images/teams/NE.png"
+  image: "/images/players/legarrette-blount.png"
+  number: '29'
+  team: New England Patriots
+  gamesPlayed: '7'
+- team-color: "#A71930"
+  stats:
+  - statName: Rushing YPG
+    statVal: '33.4'
+  - statName: Receiving YPG
+    statVal: '47.1'
+  - statName: TD Per Game
+    statVal: '0.9'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '13.20'
+  - statName: Opponent
+    statVal: "/images/teams/san-diego-chargers.png"
+  name: Tevin Coleman
+  team-image: "/images/teams/ATL.png"
+  image: "/images/players/tevin-coleman.png"
+  number: '26'
+  team: Atlanta Falcons
+  gamesPlayed: '7'
+- team-color: "#A71930"
+  stats:
+  - statName: Rushing YPG
+    statVal: '72.6'
+  - statName: Receiving YPG
+    statVal: '24.1'
+  - statName: TD Per Game
+    statVal: '0.4'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '12.24'
+  - statName: Opponent
+    statVal: "/images/teams/GB.png"
+  name: Devonta Freeman
+  team-image: "/images/teams/ATL.png"
+  image: "/images/players/devonta-freeman.png"
+  number: '24'
+  team: Atlanta Falcons
+  gamesPlayed: '7'

@@ -1,0 +1,212 @@
+[
+  {
+    "team-color": "#00295b",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "62.0"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "3.8"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.6"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "13.2"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/atlanta-falcons.png"
+      }
+    ],
+    "name": "Hunter Henry",
+    "team-image": "/images/teams/SD.png",
+    "image": "/images/players/hunter-henry.png",
+    "number": "86",
+    "team": "San Diego Chargers",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#0F2240",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "94.0"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "4.3"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.3"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "15.73"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/pittsburgh-steelers.png"
+      }
+    ],
+    "name": "Rob Gronkowski",
+    "team-image": "/images/teams/NE.png",
+    "image": "/images/players/rob-gronkowski.png",
+    "number": "87",
+    "team": "New England Patriots",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#002245",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "71.0"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "4.4"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.2"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "12.3"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/arizona-cardinals.png"
+      }
+    ],
+    "name": "Jimmy Graham",
+    "team-image": "/images/teams/SEA.png",
+    "image": "/images/players/jimmy-graham.png",
+    "number": "88",
+    "team": "Seattle Seahawks",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#0F2240",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "60.3"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "4.3"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.7"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "10.13"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/pittsburgh-steelers.png"
+      }
+    ],
+    "name": "Martellus Bennett",
+    "team-image": "/images/teams/NE.png",
+    "image": "/images/players/martellus-bennett.png",
+    "number": "83",
+    "team": "New England Patriots",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#A08A58",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "47.4"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "3.8"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.4"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "12.18"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/kansas-city-chiefs.png"
+      }
+    ],
+    "name": "Coby Fleener",
+    "team-image": "/images/teams/NO.png",
+    "image": "/images/players/coby-fleener.png",
+    "number": "80",
+    "team": "New Orleans Saints",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#4F2682",
+    "stats": [
+      {
+        "statName": "Receiving YPG",
+        "statVal": "47.2"
+      },
+      {
+        "statName": "Receptions PG",
+        "statVal": "4.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.6"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "12.52"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/philadelphia-eagles.png"
+      }
+    ],
+    "name": "Kyle Rudolph",
+    "team-image": "/images/teams/MIN.png",
+    "image": "/images/players/kyle-rudolph.png",
+    "number": "82",
+    "team": "Minnesota Vikings",
+    "gamesPlayed": "5"
+  }
+]

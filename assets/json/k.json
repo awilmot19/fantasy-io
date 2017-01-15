@@ -1,0 +1,212 @@
+[
+  {
+    "team-color": "#0F2240",
+    "stats": [
+      {
+        "statName": "FG 0-40 PG",
+        "statVal": "1.2"
+      },
+      {
+        "statName": "FG 40+ PG",
+        "statVal": "1.0"
+      },
+      {
+        "statName": "PAT PG",
+        "statVal": "2.7"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "11.41"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/pittsburgh-steelers.png"
+      }
+    ],
+    "name": "Stephen Gostkowski",
+    "team-image": "/images/teams/NE.png",
+    "image": "/images/players/stephen-gostkowski.png",
+    "number": "3",
+    "team": "New England Patriots",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#42205d",
+    "stats": [
+      {
+        "statName": "FG 0-40 PG",
+        "statVal": "1.4"
+      },
+      {
+        "statName": "FG 40+ PG",
+        "statVal": "1.0"
+      },
+      {
+        "statName": "PAT PG",
+        "statVal": "2.3"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "11.41"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/new-york-jets.png"
+      }
+    ],
+    "name": "Justin Tucker",
+    "team-image": "/images/teams/BAL.png",
+    "image": "/images/players/justin-tucker.png",
+    "number": "9",
+    "team": "Baltimore Ravens",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#600",
+    "stats": [
+      {
+        "statName": "FG 0-40 PG",
+        "statVal": "1.7"
+      },
+      {
+        "statName": "FG 40+ PG",
+        "statVal": "0.9"
+      },
+      {
+        "statName": "PAT PG",
+        "statVal": "2.2"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "10.5"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/detroit-lions.png"
+      }
+    ],
+    "name": "Dustin Hopkins",
+    "team-image": "/images/teams/WAS.png",
+    "image": "/images/players/dustin-hopkins.png",
+    "number": "3",
+    "team": "Washington Redskins",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#A71930",
+    "stats": [
+      {
+        "statName": "FG 0-40 PG",
+        "statVal": "1.7"
+      },
+      {
+        "statName": "FG 40+ PG",
+        "statVal": "0.4"
+      },
+      {
+        "statName": "PAT PG",
+        "statVal": "3.5"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "10.0"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/san-diego-chargers.png"
+      }
+    ],
+    "name": "Matt Bryant",
+    "team-image": "/images/teams/ATL.png",
+    "image": "/images/players/matt-bryant.png",
+    "number": "3",
+    "team": "Atlanta Falcons",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#2A433A",
+    "stats": [
+      {
+        "statName": "FG 0-40 PG",
+        "statVal": "1.3"
+      },
+      {
+        "statName": "FG 40+ PG",
+        "statVal": "0.7"
+      },
+      {
+        "statName": "PAT PG",
+        "statVal": "2.3"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "8.83"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/chicago-bears.png"
+      }
+    ],
+    "name": "Mason Crosby",
+    "team-image": "/images/teams/GB.png",
+    "image": "/images/players/mason-crosby.png",
+    "number": "2",
+    "team": "Green Bay Packers",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#00295b",
+    "stats": [
+      {
+        "statName": "FG 0-40 PG",
+        "statVal": "1.8"
+      },
+      {
+        "statName": "FG 40+ PG",
+        "statVal": "0.3"
+      },
+      {
+        "statName": "PAT PG",
+        "statVal": "3.0"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "9.67"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/atlanta-falcons.png"
+      }
+    ],
+    "name": "Josh Lambo",
+    "team-image": "/images/teams/SD.png",
+    "image": "/images/players/josh-lambo.png",
+    "number": "2",
+    "team": "San Diego Chargers",
+    "gamesPlayed": "6"
+  }
+]

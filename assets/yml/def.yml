@@ -1,0 +1,161 @@
+---
+- team-color: "#4F2682"
+  stats:
+  - statName: Sacks PG
+    statVal: '3.8'
+    rank: ''
+  - statName: Turnovers PG
+    statVal: '2.4'
+    rank: ''
+  - statName: Touchdowns PG
+    statVal: '0.8'
+    rank: ''
+  - statName: FPA Opponents
+    statVal: '2.1'
+    rank: ''
+  - statName: FP Per Game
+    statVal: '16.6'
+    rank: ''
+  - statName: Opponent
+    statVal: "/images/teams/PHI.png"
+    rank: ''
+  name: Minnesota Vikings
+  team-image: "/images/teams/MIN.png"
+  image: "/images/teams/MIN.png"
+  number: ''
+  team: ''
+  gamesPlayed: '5'
+  rank: 1st
+- team-color: "#005596"
+  stats:
+  - statName: Sacks PG
+    statVal: '3.3'
+    rank: ''
+  - statName: Turnovers PG
+    statVal: '2.0'
+    rank: ''
+  - statName: Touchdowns PG
+    statVal: '0.5'
+    rank: ''
+  - statName: FPA Opponents
+    statVal: '2.1'
+    rank: ''
+  - statName: FP Per Game
+    statVal: '12.5'
+    rank: ''
+  - statName: Opponent
+    statVal: "/images/teams/MIA.png"
+    rank: ''
+  name: Buffalo Bills
+  team-image: "/images/teams/BUF.png"
+  image: "/images/teams/BUF.png"
+  number: ''
+  team: ''
+  gamesPlayed: '6'
+  rank: 4th
+- team-color: "#004c55"
+  stats:
+  - statName: Sacks PG
+    statVal: '2.8'
+    rank: ''
+  - statName: Turnovers PG
+    statVal: '1.6'
+    rank: ''
+  - statName: Touchdowns PG
+    statVal: '0.4'
+    rank: ''
+  - statName: FPA Opponents
+    statVal: '2.1'
+    rank: ''
+  - statName: FP Per Game
+    statVal: '11.6'
+    rank: ''
+  - statName: Opponent
+    statVal: "/images/teams/MIN.png"
+    rank: ''
+  name: Philadelphia Eagles
+  team-image: "/images/teams/PHI.png"
+  image: "/images/teams/PHI.png"
+  number: ''
+  team: ''
+  gamesPlayed: '5'
+  rank: 2nd
+- team-color: "#B0063A"
+  stats:
+  - statName: Sacks PG
+    statVal: '3.2'
+    rank: ''
+  - statName: Turnovers PG
+    statVal: '2.3'
+    rank: ''
+  - statName: Touchdowns PG
+    statVal: '0.2'
+    rank: ''
+  - statName: FPA Opponents
+    statVal: '2.1'
+    rank: ''
+  - statName: FP Per Game
+    statVal: '11.5'
+    rank: ''
+  - statName: Opponent
+    statVal: "/images/teams/SEA.png"
+  name: Arizona Cardinals
+  team-image: "/images/teams/ARI.png"
+  image: "/images/teams/ARI.png"
+  number: ''
+  team: ''
+  gamesPlayed: '6'
+  rank: 3rd
+- team-color: "#E31837"
+  stats:
+  - statName: Sacks PG
+    statVal: '1.4'
+    rank: ''
+  - statName: Turnovers PG
+    statVal: '2.4'
+    rank: ''
+  - statName: Touchdowns PG
+    statVal: '0.4'
+    rank: ''
+  - statName: FPA Opponents
+    statVal: '2.1'
+    rank: ''
+  - statName: FP Per Game
+    statVal: '10.2'
+    rank: ''
+  - statName: Opponent
+    statVal: "/images/teams/NO.png"
+  name: Kansas City Chiefs
+  team-image: "/images/teams/KC.png"
+  image: "/images/teams/KC.png"
+  number: ''
+  team: ''
+  gamesPlayed: '5'
+  rank: 5th
+- team-color: "#002245"
+  stats:
+  - statName: Sacks PG
+    statVal: '3.2'
+    rank: ''
+  - statName: Turnovers PG
+    statVal: '1.2'
+    rank: ''
+  - statName: Touchdowns PG
+    statVal: '0.0'
+    rank: ''
+  - statName: FPA Opponents
+    statVal: '2.1'
+    rank: ''
+  - statName: FP Per Game
+    statVal: '8.0'
+    rank: ''
+  - statName: Opponent
+    statVal: "/images/teams/ARI.png"
+    rank: ''
+  name: Seattle Seahawks
+  team-image: "/images/teams/SEA.png"
+  image: "/images/teams/SEA.png"
+  number: ''
+  team: ''
+  gamesPlayed: '5'
+  rank: 7th

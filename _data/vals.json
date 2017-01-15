@@ -1,0 +1,21 @@
+
+{
+  "players": [
+    {
+      "rbs": [
+        {
+          "rb1": [
+            { "name":"Demarco Murray",
+              "team":"Tennesse Titans",
+              "number":"29",
+              "stats": [
+                { "statName":"Rushing Yds", "statVal":"92.2"},
+                { "statName":"Receiving Yds", "statVal":"34.4"}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

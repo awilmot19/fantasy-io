@@ -1,0 +1,84 @@
+[
+  {
+    "team-color": "#002245",
+    "stats": [
+      {
+        "statName": "Passing YPG",
+        "statVal": "266.8",
+        "rank": "13th"
+      },
+      {
+        "statName": "Rushing YPG",
+        "statVal": "7.0",
+        "rank": "23rd"
+      },
+      {
+        "statName": "TD/TO",
+        "statVal": "5/2",
+        "rank": "28th"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "-2.6",
+        "rank": "23rd"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "14.57",
+        "rank": "21st"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/arizona-cardinals.png",
+        "rank": "29th"
+      }
+    ],
+    "name": "Russell Wilson",
+    "team-image": "/images/teams/seattle-seahawks.png",
+    "image": "/images/players/russell-wilson.png",
+    "number": "3",
+    "team": "Seattle Seahawks",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#2A433A",
+    "stats": [
+      {
+        "statName": "Passing YPG",
+        "statVal": "234.0",
+        "rank": "21st"
+      },
+      {
+        "statName": "Rushing YPG",
+        "statVal": "17.8",
+        "rank": "10th"
+      },
+      {
+        "statName": "TD/TO",
+        "statVal": "8/4",
+        "rank": "6th"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "3.4",
+        "rank": "5th"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "19.14",
+        "rank": "8th"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/chicago-bears.png",
+        "rank": "19th"
+      }
+    ],
+    "name": "Aaron Rodgers",
+    "team-image": "/images/teams/green-bay-packers.png",
+    "image": "/images/players/aaron-rodgers.png",
+    "number": "12",
+    "team": "Green Bay Packers",
+    "gamesPlayed": "5"
+  }
+]

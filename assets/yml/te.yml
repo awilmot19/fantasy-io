@@ -1,0 +1,241 @@
+- team-color: "#00295b"
+  stats:
+  - statName: Receiving YPG
+    statVal: '54.3'
+  - statName: Receptions PG
+    statVal: '3.3'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.43'
+  - statName: Opponent
+    statVal: "/images/teams/DEN.png"
+  name: Hunter Henry
+  team-image: "/images/teams/SD.png"
+  image: "/images/players/hunter-henry.png"
+  number: '86'
+  team: San Diego Chargers
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Receiving YPG
+    statVal: '75.0'
+  - statName: Receptions PG
+    statVal: '3.4'
+  - statName: TD Per Game
+    statVal: '0.4'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '13.30'
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+  name: Rob Gronkowski
+  team-image: "/images/teams/NE.png"
+  image: "/images/players/rob-gronkowski.png"
+  number: '87'
+  team: New England Patriots
+  gamesPlayed: '5'
+- team-color: "#002245"
+  stats:
+  - statName: Receiving YPG
+    statVal: '68.0'
+  - statName: Receptions PG
+    statVal: '4.5'
+  - statName: TD Per Game
+    statVal: '0.2'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.97'
+  - statName: Opponent
+    statVal: "/images/teams/NO.png"
+  name: Jimmy Graham
+  team-image: "/images/teams/SEA.png"
+  image: "/images/players/jimmy-graham.png"
+  number: '88'
+  team: Seattle Seahawks
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Receiving YPG
+    statVal: '52.4'
+  - statName: Receptions PG
+    statVal: '3.9'
+  - statName: TD Per Game
+    statVal: '0.6'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '12.61'
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+  name: Martellus Bennett
+  team-image: "/images/teams/NE.png"
+  image: "/images/players/martellus-bennett.png"
+  number: '83'
+  team: New England Patriots
+  gamesPlayed: '7'
+- team-color: "#A08A58"
+  stats:
+  - statName: Receiving YPG
+    statVal: '46.8'
+  - statName: Receptions PG
+    statVal: '3.5'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.22'
+  - statName: Opponent
+    statVal: "/images/teams/SEA.png"
+  name: Coby Fleener
+  team-image: "/images/teams/NO.png"
+  image: "/images/players/coby-fleener.png"
+  number: '80'
+  team: New Orleans Saints
+  gamesPlayed: '6'
+- team-color: "#4F2682"
+  stats:
+  - statName: Receiving YPG
+    statVal: '48.5'
+  - statName: Receptions PG
+    statVal: '4.3'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '12.18'
+  - statName: Opponent
+    statVal: "/images/teams/CHI.png"
+  name: Kyle Rudolph
+  team-image: "/images/teams/MIN.png"
+  image: "/images/players/kyle-rudolph.png"
+  number: '82'
+  team: Minnesota Vikings
+  gamesPlayed: '6'
+
+- team-color: "#00295b"
+  stats:
+  - statName: Receiving YPG
+    statVal: '54.3'
+  - statName: Receptions PG
+    statVal: '3.3'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.43'
+  - statName: Opponent
+    statVal: "/images/teams/DEN.png"
+  name: Greg Olsen
+  team-image: "/images/teams/CAR.png"
+  image: "/images/players/greg-olsen.png"
+  number: '88'
+  team: Carolina Panthers
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Receiving YPG
+    statVal: '75.0'
+  - statName: Receptions PG
+    statVal: '3.4'
+  - statName: TD Per Game
+    statVal: '0.4'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '13.30'
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+  name: Rob Gronkowski
+  team-image: "/images/teams/NE.png"
+  image: "/images/players/rob-gronkowski.png"
+  number: '87'
+  team: New England Patriots
+  gamesPlayed: '5'
+- team-color: "#002245"
+  stats:
+  - statName: Receiving YPG
+    statVal: '68.0'
+  - statName: Receptions PG
+    statVal: '4.5'
+  - statName: TD Per Game
+    statVal: '0.2'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.97'
+  - statName: Opponent
+    statVal: "/images/teams/NO.png"
+  name: Jimmy Graham
+  team-image: "/images/teams/SEA.png"
+  image: "/images/players/jimmy-graham.png"
+  number: '88'
+  team: Seattle Seahawks
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Receiving YPG
+    statVal: '52.4'
+  - statName: Receptions PG
+    statVal: '3.9'
+  - statName: TD Per Game
+    statVal: '0.6'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '12.61'
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+  name: Martellus Bennett
+  team-image: "/images/teams/NE.png"
+  image: "/images/players/martellus-bennett.png"
+  number: '83'
+  team: New England Patriots
+  gamesPlayed: '7'
+- team-color: "#A08A58"
+  stats:
+  - statName: Receiving YPG
+    statVal: '46.8'
+  - statName: Receptions PG
+    statVal: '3.5'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '11.22'
+  - statName: Opponent
+    statVal: "/images/teams/SEA.png"
+  name: Coby Fleener
+  team-image: "/images/teams/NO.png"
+  image: "/images/players/coby-fleener.png"
+  number: '80'
+  team: New Orleans Saints
+  gamesPlayed: '6'
+- team-color: "#4F2682"
+  stats:
+  - statName: Receiving YPG
+    statVal: '48.5'
+  - statName: Receptions PG
+    statVal: '4.3'
+  - statName: TD Per Game
+    statVal: '0.5'
+  - statName: FPA Opponents
+    statVal: '2.1'
+  - statName: FP Per Game
+    statVal: '12.18'
+  - statName: Opponent
+    statVal: "/images/teams/CHI.png"
+  name: Kyle Rudolph
+  team-image: "/images/teams/MIN.png"
+  image: "/images/players/kyle-rudolph.png"
+  number: '82'
+  team: Minnesota Vikings
+  gamesPlayed: '6'

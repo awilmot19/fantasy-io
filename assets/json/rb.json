@@ -1,0 +1,422 @@
+[
+  {
+    "team-color": "#4095D1",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "87.7"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "28.7"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.0"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "4.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "17.3"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/indianapolis-colts.png"
+      }
+    ],
+    "name": "DeMarco Murray",
+    "team-image": "/images/teams/TEN.png",
+    "image": "/images/players/demarco-murray.png",
+    "number": "29",
+    "team": "Tennesee Titans",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#FFB60C",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "87.7"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "59.0"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.0"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "15.3"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/new-england-patriots.png"
+      }
+    ],
+    "name": "Le'Veon Bell",
+    "team-image": "/images/teams/PIT.png",
+    "image": "/images/players/leveon-bell.png",
+    "number": "26",
+    "team": "Pittsburgh Steelers",
+    "gamesPlayed": "3"
+  },
+  {
+    "team-color": "#B0063A",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "94.7"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "44.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.3"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "21.55"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/seattle-seahawks.png"
+      }
+    ],
+    "name": "David Johnson",
+    "team-image": "/images/teams/ARI.png",
+    "image": "/images/players/david-johnson.png",
+    "number": "31",
+    "team": "Arizona Cardinals",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#005596",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "97.8"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "16.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.2"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "15.3"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/miami-dolphins.png"
+      }
+    ],
+    "name": "LeSean McCoy",
+    "team-image": "/images/teams/BUF.png",
+    "image": "/images/players/lesean-mccoy.png",
+    "number": "25",
+    "team": "Buffalo Bills",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#00295b",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "65.5"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "20.3"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.2"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "14.92"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/atlanta-falcons.png"
+      }
+    ],
+    "name": "Melvin Gordon",
+    "team-image": "/images/teams/SD.png",
+    "image": "/images/players/melvin-gordon.png",
+    "number": "28",
+    "team": "San Diego Chargers",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#C9243F",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "71.5"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "11.0"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.0"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "14.25"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/tampa-bay-buccaneers.png"
+      }
+    ],
+    "name": "Carlos Hyde",
+    "team-image": "/images/teams/SF.png",
+    "image": "/images/players/carlos-hyde.png",
+    "number": "28",
+    "team": "San Franscisco 49ers",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#002245",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "70.8"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "17.4"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.0"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "14.42"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/arizona-cardinals.png"
+      }
+    ],
+    "name": "Christine Michael",
+    "team-image": "/images/teams/SEA.png",
+    "image": "/images/players/christine-michael.png",
+    "number": "32",
+    "team": "Seattle Seahawks",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#00123F",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "86.7"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "18.5"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.4"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "12.52"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/denver-broncos.png"
+      }
+    ],
+    "name": "Lamar Miller",
+    "team-image": "/images/teams/HOU.png",
+    "image": "/images/players/lamar-miller.png",
+    "number": "26",
+    "team": "Houston Texans",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#E31837",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "83.0"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "46.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.4"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "14.12"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/new-orleans-saints.png"
+      }
+    ],
+    "name": "Spencer Ware",
+    "team-image": "/images/teams/KC.png",
+    "image": "/images/players/spencer-ware.png",
+    "number": "32",
+    "team": "Kansas City Chiefs",
+    "gamesPlayed": "5"
+  },
+  {
+    "team-color": "#0F2240",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "73.2"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "4.0"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "1.0"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "13.38"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/pittsburgh-steelers.png"
+      }
+    ],
+    "name": "LeGarrette Blount",
+    "team-image": "/images/teams/NE.png",
+    "image": "/images/players/legarrette-blount.png",
+    "number": "29",
+    "team": "New England Patriots",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#A71930",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "28.3"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "53.3"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.9"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "13.17"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/san-diego-chargers.png"
+      }
+    ],
+    "name": "Tevin Coleman",
+    "team-image": "/images/teams/ATL.png",
+    "image": "/images/players/tevin-coleman.png",
+    "number": "26",
+    "team": "Atlanta Falcons",
+    "gamesPlayed": "6"
+  },
+  {
+    "team-color": "#A71930",
+    "stats": [
+      {
+        "statName": "Rushing YPG",
+        "statVal": "75.0"
+      },
+      {
+        "statName": "Receiving YPG",
+        "statVal": "21.2"
+      },
+      {
+        "statName": "TD Per Game",
+        "statVal": "0.5"
+      },
+      {
+        "statName": "FPA Opponents",
+        "statVal": "2.1"
+      },
+      {
+        "statName": "FP Per Game",
+        "statVal": "12.62"
+      },
+      {
+        "statName": "Opponent",
+        "statVal": "/images/teams/san-diego-chargers.png"
+      }
+    ],
+    "name": "Devonta Freeman",
+    "team-image": "/images/teams/ATL.png",
+    "image": "/images/players/devonta-freeman.png",
+    "number": "24",
+    "team": "Atlanta Falcons",
+    "gamesPlayed": "6"
+  }
+]

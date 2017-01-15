@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<head>
+  <link href="/css/style.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+
+<body class="results">
+
+  <div class="positions">
+    {% for matchup in site.data.chosen %}
+      <div class="players-points">
+        <div class="chosen-player">
+          <img class="player-pic" src="{{ matchup.players.first.image }}">
+          <h4>{{ matchup.players.first.name }}</h4>
+        </div>
+        <div class="chosen-player-points" style="background-image: url('{{ matchup.players.first.team-image }}')">
+          <h1>{{ matchup.players.first.weekPoints }}</h1>
+        </div>
+        <div class="other-player-points">
+          <h1>{{ matchup.players.last.weekPoints }}</h1>
+        </div>
+        <div class="other-player">
+          <img class="player-pic" src="{{ matchup.players.last.image }}">
+          <h4>{{ matchup.players.last.name }}</h4>
+        </div>
+      </div>
+    {% endfor %}
+    <div class="players-points">
+      <div class="chosen-player">
+      </div>
+      <div class="chosen-player-points">
+        <h1 class="chosen-total"></h1>
+      </div>
+      <div class="other-player-points">
+        <h1 class="other-total"></h1>
+      </div>
+      <div class="other-player">
+        <img class="player-pic" src="{{ matchup.players.last.image }}">
+        <h4>{{ matchup.players.last.name }}</h4>
+      </div>
+    </div>
+  </div>
+
+</body>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.12/jquery.transit.js"></script>
+<script type="text/javascript" src="
+https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<script>
+
+  var chosenTotal = 0;
+  var otherTotal = 0;
+
+  var chosenPoints = $('.chosen-player-points>h1');
+  var otherPoints = $('.other-player-points>h1');
+
+  for (var i = 0; i < chosenPoints.length-1; i++) {
+    chosenTotal = chosenTotal + Number($(chosenPoints[i]).html());
+  }
+
+  $('.chosen-total').text(chosenTotal.toFixed(2));
+
+  for (var i = 0; i < otherPoints.length-1; i++) {
+    otherTotal = otherTotal + Number($(otherPoints[i]).html());
+  }
+
+  $('.other-total').text(otherTotal.toFixed(2));
+
+</script>

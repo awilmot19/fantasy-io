@@ -1,0 +1,651 @@
+
+@font-face
+  font-family: 'NFLFont'
+  src: url('/medium-cond.ttf') format('truetype')
+
+*
+  margin: 0
+  padding: 0
+  font-family: 'NFLFont'
+
+html
+  background-image: url('/images/field1.jpg')
+  background-size: cover
+  background-position: center -250px
+  background-attachment: fixed
+
+body
+  height: 100%
+  width: 100%
+  display: flex
+  flex-direction: row
+  ///background: #ddd
+  // background-image: url('/images/field1.jpg')
+  // background-size: cover
+  // background-position: center
+  // background-attachment: fixed
+
+  .menu
+    position: fixed
+    display: flex
+    width: 16vw
+    height: 100vh
+    background: linear-gradient(to bottom, #1493ff 0%,#0d64c8 100%)
+    border-right: 4px solid #0b42a6
+    flex-direction: column
+    justify-content: space-between
+
+    #logo
+      width: 16vw
+      height: auto
+      border-bottom: 2px solid #0b42a6
+
+    .week-shifter
+      display: flex
+      flex-direction: row
+      margin: 0 auto
+      width: 90%
+      justify-content: space-between
+
+      .week-left
+        transform: rotate(90deg)
+        height: 5vh
+        width: 5vh
+        transition: 0.3s
+
+        &:hover
+          -webkit-filter: brightness(30%)
+          filter: brightness(30%)
+
+      .week-right
+        transform: rotate(-90deg)
+        height: 5vh
+        width: 5vh
+        transition: 0.3s
+
+        &:hover
+          -webkit-filter: brightness(30%)
+          filter: brightness(30%)
+
+      h2
+        color: #fff
+        margin: auto 0
+
+    .links
+      li
+        list-style-type: none
+        width: 100%
+        height: 4vh
+        text-align: center
+        display: flex
+        border: 1px solid #0b42a6
+        border-left: none
+        border-right: none
+
+        &:first-child
+          border-top-width: 2px
+
+        &:hover
+          background-color: #1493ff
+
+        a
+          text-decoration: none
+          margin: auto
+          width: 100%
+
+          h3
+            color: #fff
+            letter-spacing: 2px
+            margin: auto
+
+    .lineup
+      height: 48vh
+      width: 100%
+
+      li
+        list-style-type: none
+        border-bottom: 2px solid #0b42a6
+        height: 6vh
+        width: 80%
+        margin: auto
+        //background: #888
+        display: flex
+
+        h3
+          color: #eee
+          font-size: 4vh
+          margin: auto auto 0 auto
+          transition: 0.5s
+          opacity: 0.0
+
+        .pick-circle
+          display: flex
+          height: 4.9vh
+          width: 4.9vh
+          background-color: #aaa
+          margin: auto 0 2px auto
+          border-radius: 2.3vh
+          border: 2px solid #0b42a6
+          //background-image: url('../images/players/russell-wilson.png')
+          background-size: cover
+          box-sizing: border-box
+          transition: 0.5s
+
+          h5
+            margin: auto
+            font-size: 2.2vh
+            color: #777
+
+    button
+      width: 60%
+      height: 4vh
+      margin: 0 auto
+      font-size: 2.5vh
+      border-radius: 2vh
+      border: 2px solid #fff
+      background: rgba(0,0,0,0)
+      color: #fff
+      transition: 0.5s
+      letter-spacing: 2px
+
+      &:hover
+        color: #0F70D6
+        background: #fff
+
+      &:focus
+        outline: none
+
+      &:active
+        background: #bbb
+        border-color: #bbb
+
+
+.positions
+  display: flex
+  flex-direction: column
+  width: 84%
+  margin: 0 0 0 auto
+
+  .position-class
+    position: relative
+
+    .position-card
+      display: flex
+      flex-direction: row
+      margin: 0 auto
+      width: 100%
+      height: 12.5vh
+      position: relative
+
+      #rightNew
+        -webkit-filter: brightness(115%)
+        filter: brightness(115%)
+
+      #leftNew
+        -webkit-filter: brightness(115%)
+        filter: brightness(115%)
+
+      #rightOld
+        -webkit-filter: brightness(85%)
+        filter: brightness(85%)
+
+      #leftOld
+        -webkit-filter: brightness(85%)
+        filter: brightness(85%)
+
+      .chosen-player
+        //background: linear-gradient(-90deg, #002245, #ddd)
+        //background-color: #002245
+
+        .player-prof
+          background: #fff
+
+      .chosen-player2
+        //background: linear-gradient(90deg, #FFB612, #ddd)
+        //background-color: #ffb612
+
+        .player-prof
+          background: #fff
+
+      .other-player
+        -webkit-filter: blur(2px)
+        filter: blur(2px)
+
+        .player-prof
+          background: #bbb
+          -webkit-filter: grayscale(90%)
+          filter: grayscale(90%)
+
+        .player-stats .stats-background
+          -webkit-filter: grayscale(90%)
+          filter: grayscale(90%)
+
+      // .player0 .player-prof
+      //   order: 1
+
+      .player
+        display: flex
+        width: 45%
+        height: 100%
+        box-sizing: border-box
+        //border-top: 2px solid #007000
+        border-top: 2px solid #222
+        flex-direction: row
+        text-align: center
+        position: relative
+        background: #ddd
+
+        .player-prof
+          padding: 10px 0px
+          display: flex
+          flex-direction: column
+          width: 18%
+          background: #ddd
+
+          // OG size
+          // img
+          //   border-radius: 20%
+          //   max-width: 180px
+          //   width: 90%
+          //   margin: auto
+          img
+            border-radius: 20%
+            max-width: 180px
+            width: 56%
+            margin: auto
+
+          h4,h5
+            margin: auto
+
+        .player-stats
+          font-size: 0
+          display: flex
+          flex-direction: row
+          height: 100%
+          width: 82%
+          flex-wrap: wrap
+          justify-content: space-around
+          align-content: space-around
+
+          .stats-background
+            position: absolute
+            z-index: 0
+            height: 100%
+            width: 82%
+            background-size: 60%
+            background-position: center center
+            background-repeat: no-repeat
+
+          // OG size
+          // .stat1
+          //   background: #ddd
+          //   width: 26%
+          //   height: 40%
+          //   font-size: 10px
+          //   box-shadow: 5px 5px 10px 0px #222
+          //   border-radius: 5px
+
+          .team-color
+            display: none
+
+          .stat1
+            position: relative
+            width: 26%
+            height: 45%
+            font-size: 10px
+            box-shadow: 5px 5px 10px 0px #222
+            border-radius: 5px
+
+            .stat-title
+              display: flex
+              font-size: 1.4vmin
+              height: 35%
+              background: linear-gradient(to bottom, rgba(240,240,240,1) 0%, rgba(150,150,150,1) 100%)
+              border-top-left-radius: 5px
+              border-top-right-radius: 5px
+
+              h3
+                margin: auto
+
+            .stat-value
+              display: flex
+              height: 65%
+              background: rgba(240,240,240,0.82)
+              border-bottom-left-radius: 5px
+              border-bottom-right-radius: 5px
+              overflow: hidden
+
+              h4
+                font-size: 1.0vw
+                position: absolute
+                padding-left: 0.1vw
+
+              .green-triangle
+                position: relative
+                top: -35px
+                left: -30px
+                width: 50px
+                height: 50px
+                transform: rotate(45deg)
+                background: #00c073
+                box-shadow: 3px 3px 7px -1px #222
+                margin-right: -50px
+
+              .yellow-triangle
+                position: relative
+                top: -35px
+                left: -30px
+                width: 50px
+                height: 50px
+                transform: rotate(45deg)
+                background: #dba608
+                box-shadow: 3px 3px 7px -1px #222
+                margin-right: -50px
+
+              h3
+                font-size: 2.1vw
+                margin: auto
+                position: relative
+
+              img
+                height: 110%
+                margin: auto
+
+      .player .expanded
+        display: flex
+        width: 45%
+        height: 100%
+        box-sizing: border-box
+        //border-top: 2px solid #007000
+        border-top: 2px solid #222
+        flex-direction: row
+        text-align: center
+        position: relative
+        background: #ddd
+
+        .player-prof
+          padding: 10px 0px
+          display: flex
+          flex-direction: column
+          width: 18%
+          background: #ddd
+
+          // OG size
+          // img
+          //   border-radius: 20%
+          //   max-width: 180px
+          //   width: 90%
+          //   margin: auto
+          img
+            border-radius: 20%
+            max-width: 180px
+            width: 56%
+            margin: auto
+
+          h4,h5
+            margin: auto
+
+        .player-stats
+          font-size: 0
+          display: flex
+          flex-direction: row
+          height: 100%
+          width: 82%
+          flex-wrap: wrap
+          justify-content: space-around
+          align-content: space-around
+
+          .stats-background
+            position: absolute
+            z-index: 0
+            height: 100%
+            width: 82%
+            background-size: 60%
+            background-position: center center
+            background-repeat: no-repeat
+
+          // OG size
+          // .stat1
+          //   background: #ddd
+          //   width: 26%
+          //   height: 40%
+          //   font-size: 10px
+          //   box-shadow: 5px 5px 10px 0px #222
+          //   border-radius: 5px
+
+          .team-color
+            display: none
+
+          .stat1
+            position: relative
+            width: 26%
+            height: 45%
+            font-size: 10px
+            box-shadow: 5px 5px 10px 0px #222
+            border-radius: 5px
+
+            .stat-title
+              display: flex
+              font-size: 1.4vmin
+              height: 35%
+              background: linear-gradient(to bottom, rgba(240,240,240,1) 0%, rgba(150,150,150,1) 100%)
+              border-top-left-radius: 5px
+              border-top-right-radius: 5px
+
+              h3
+                margin: auto
+
+            .stat-value
+              display: flex
+              height: 65%
+              background: rgba(240,240,240,0.92)
+              border-bottom-left-radius: 5px
+              border-bottom-right-radius: 5px
+              overflow: hidden
+
+              h4
+                font-size: 1.0vw
+                position: absolute
+                padding-left: 0.1vw
+
+              .green-triangle
+                position: relative
+                top: -35px
+                left: -30px
+                width: 50px
+                height: 50px
+                transform: rotate(45deg)
+                background: #00c073
+                box-shadow: 3px 3px 7px -1px #222
+                margin-right: -50px
+
+              .yellow-triangle
+                position: relative
+                top: -35px
+                left: -30px
+                width: 50px
+                height: 50px
+                transform: rotate(45deg)
+                background: #dba608
+                box-shadow: 3px 3px 7px -1px #222
+                margin-right: -50px
+
+              h3
+                font-size: 2.1vw
+                margin: auto
+                position: relative
+
+              img
+                height: 110%
+                margin: auto
+
+      .player1 .player-prof
+        order: 2
+
+      .player2 .player-stats .stat
+        border-top-right-radius: 10px
+        border-top-left-radius: 2px
+        border-bottom-right-radius: 2px
+        border-bottom-left-radius: 10px
+
+      .position
+        display: flex
+        flex-direction: column
+        justify-content: space-around
+        width: 10%
+        background: #888
+        border-top: 2px solid #222
+
+        h2
+          margin: 0 auto
+          color: white
+          letter-spacing: 1px
+
+        img
+          position: relative
+          //top: 2vh
+          width: 60%
+          height: 25%
+          margin: 0 auto
+          transition: 0.3s
+
+          &:hover
+            -webkit-filter: brightness(30%)
+            filter: brightness(30%)
+
+        .switch-matchup
+          width: 80%
+          height: 3vh
+          margin: 0 auto
+          font-size: 1.3vh
+          border-radius: 2vh
+          border: 2px solid #fff
+          background: #1493ff
+          color: #fff
+          transition: 0.5s
+          letter-spacing: 2px
+
+          &:hover
+            color: #1493ff
+            background: #fff
+
+          &:focus
+            outline: none
+
+          &:active
+            background: #bbb
+            border-color: #bbb
+
+      .chosen-matchup
+        // background: #FF851B
+        background: #1493FF
+
+        .matchup-expander
+          transform: scaleY(1)
+
+    .matchup-card
+      z-index: 1
+
+.toggler
+  margin: 0 auto
+  width: 6.0vmax
+  height: 2.2vmax
+  background: lightgrey
+  border-radius: 35px
+  box-shadow: 0px 0px 10px -2px black
+
+  .circle
+    height: 2.2vmax
+    width: 2.2vmax
+    background: #e8e8e8
+    border-radius: 32px
+    position: relative
+    margin-left: 1.9vmax
+    box-sizing: border-box
+    border: 2.5px solid #4DD865
+    box-shadow: 0 0 17px #4DD865
+    transition: 0.4s
+
+// OG
+// .toggler
+//   margin: 0 auto
+//   width: 6.8vmax
+//   height: 2.8vmax
+//   background: lightgrey
+//   border-radius: 35px
+//   box-shadow: 0px 0px 10px -2px black
+//
+//   .circle
+//     height: 2.6vmax
+//     width: 2.6vmax
+//     background: #e8e8e8
+//     border-radius: 32px
+//     position: relative
+//     top: .1vmax
+//     margin-left: 2.12vmax
+//     box-sizing: border-box
+//     border: 2.5px solid #4DD865
+//     box-shadow: 0 0 17px #4DD865
+//     transition: 0.4s
+
+
+.results
+
+  .positions
+    display: flex
+    flex-direction: row
+    background: #ddd
+    width: 80%
+    height: 80vh
+    margin: auto
+    align-content: space-around
+
+    .players-points
+      display: flex
+      flex-direction: column
+      width: 11.1%
+      text-align: center
+      position: relative
+
+      .chosen-player
+        height: 25%
+
+        .player-pic
+          display: block
+          width: 95%
+          margin: auto
+
+      .chosen-player-points
+        display: flex
+        height: 25%
+        background-size: 65%
+        background-position: center
+        background-repeat: no-repeat
+
+        h1
+          margin: auto
+          color: white
+          text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
+
+      .other-player-points
+        display: flex
+        height: 25%
+
+        h1
+          margin: auto
+
+      .other-player
+        display: flex
+        flex-direction: column
+        height: 25%
+        justify-content: space-around
+
+        .player-pic
+          display: block
+          width: 95%
+          margin: 0 auto
+
+
+    .overall-score
+      width: 11.1%
+      background: #eee

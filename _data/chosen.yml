@@ -1,0 +1,371 @@
+- title: "QB"
+  players:
+    - team-color: "#2A433A"
+      stats:
+      - statName: Passing YPG
+        statVal: '249.3'
+        rank: 21st
+      - statName: Rushing YPG
+        statVal: '16.0'
+        rank: 10th
+      - statName: TD/TO
+        statVal: 15/7
+        rank: 6th
+      - statName: FPA Opponents
+        statVal: '3.4'
+        rank: 5th
+      - statName: FP Per Game
+        statVal: '19.91'
+        rank: 8th
+      - statName: Opponent
+        statVal: "/images/teams/ATL.png"
+        rank: 19th
+      name: Aaron Rodgers
+      team-image: "/images/teams/GB.png"
+      image: "/images/players/aaron-rodgers.png"
+      number: '12'
+      team: Green Bay Packers
+      gamesPlayed: '6'
+      weekPoints: "23.74"
+    - team-color: "#002245"
+      stats:
+      - statName: Passing YPG
+        statVal: '259.8'
+        rank: 13th
+      - statName: Rushing YPG
+        statVal: '5.5'
+        rank: 23rd
+      - statName: TD/TO
+        statVal: 5/2
+        rank: 28th
+      - statName: FPA Opponents
+        statVal: "-2.6"
+        rank: 23rd
+      - statName: FP Per Game
+        statVal: '13.59'
+        rank: 21st
+      - statName: Opponent
+        statVal: "/images/teams/NO.png"
+        rank: 29th
+      name: Russell Wilson
+      team-image: "/images/teams/SEA.png"
+      image: "/images/players/russell-wilson.png"
+      number: '3'
+      team: Seattle Seahawks
+      gamesPlayed: '6'
+      weekPoints: "8.70"
+
+- title: "RB1"
+  players:
+    - team-color: "#FFB60C"
+      stats:
+      - statName: Rushing YPG
+        statVal: '86.0'
+      - statName: Receiving YPG
+        statVal: '61.3'
+      - statName: TD Per Game
+        statVal: '0.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.22'
+      - statName: Opponent
+        statVal: "/images/teams/NE.png"
+      name: Le'Veon Bell
+      team-image: "/images/teams/PIT.png"
+      image: "/images/players/leveon-bell.png"
+      number: '26'
+      team: Pittsburgh Steelers
+      gamesPlayed: '4'
+      weekPoints: "14.90"
+    - team-color: "#4095D1"
+      stats:
+      - statName: Rushing YPG
+        statVal: '90.4'
+      - statName: Receiving YPG
+        statVal: '27.4'
+      - statName: TD Per Game
+        statVal: '1.0'
+      - statName: FPA Opponents
+        statVal: '4.1'
+      - statName: FP Per Game
+        statVal: '17.50'
+      - statName: Opponent
+        statVal: "/images/teams/JAX.png"
+      name: DeMarco Murray
+      team-image: "/images/teams/TEN.png"
+      image: "/images/players/demarco-murray.png"
+      number: '29'
+      team: Tennesee Titans
+      gamesPlayed: '7'
+      weekPoints: "18.70"
+
+- title: "RB2"
+  players:
+    - team-color: "#0F2240"
+      stats:
+      - statName: Rushing YPG
+        statVal: '80.9'
+      - statName: Receiving YPG
+        statVal: '4.4'
+      - statName: TD Per Game
+        statVal: '1.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.10'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: LeGarrette Blount
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/legarrette-blount.png"
+      number: '29'
+      team: New England Patriots
+      gamesPlayed: '7'
+      weekPoints: "25.40"
+    - team-color: "#E31837"
+      stats:
+      - statName: Rushing YPG
+        statVal: '82.0'
+      - statName: Receiving YPG
+        statVal: '47.5'
+      - statName: TD Per Game
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '14.95'
+      - statName: Opponent
+        statVal: "/images/teams/IND.png"
+      name: Spencer Ware
+      team-image: "/images/teams/KC.png"
+      image: "/images/players/spencer-ware.png"
+      number: '32'
+      team: Kansas City Chiefs
+      gamesPlayed: '6'
+      weekPoints: "19.10"
+
+- title: "WR1"
+  players:
+    - team-color: "#F8492E"
+      stats:
+      - statName: Receiving YPG
+        statVal: '110.7'
+      - statName: Receptions PG
+        statVal: '7.1'
+      - statName: TD Per Game
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.64'
+      - statName: Opponent
+        statVal: "/images/teams/WAS.png"
+      name: A.J. Green
+      team-image: "/images/teams/CIN.png"
+      image: "/images/players/aj-green.png"
+      number: '18'
+      team: Cincinnati Bengals
+      gamesPlayed: '7'
+      weekPoints: "22.90"
+    - team-color: "#003B6C"
+      stats:
+      - statName: Receiving YPG
+        statVal: '98.4'
+      - statName: Receptions PG
+        statVal: '6.4'
+      - statName: TD Per Game
+        statVal: '0.6'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.27'
+      - statName: Opponent
+        statVal: "/images/teams/KC.png"
+      name: T.Y. Hilton
+      team-image: "/images/teams/IND.png"
+      image: "/images/players/ty-hilton.png"
+      number: '13'
+      team: Indianapolis Colts
+      gamesPlayed: '7'
+      weekPoints: "19.30"
+
+- title: "WR2"
+  players:
+    - team-color: "#000000"
+      stats:
+      - statName: Receiving YPG
+        statVal: '87.7'
+      - statName: Receptions PG
+        statVal: '5.7'
+      - statName: TD Per Game
+        statVal: '0.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.20'
+      - statName: Opponent
+        statVal: "/images/teams/TB.png"
+      name: Amari Cooper
+      team-image: "/images/teams/OAK.png"
+      image: "/images/players/amari-cooper.png"
+      number: '89'
+      team: Oakland Raiders
+      gamesPlayed: '7'
+      weekPoints: "2.90"
+    - team-color: "#000000"
+      stats:
+      - statName: Receiving YPG
+        statVal: '65.9'
+      - statName: Receptions PG
+        statVal: '5.6'
+      - statName: TD Per Game
+        statVal: '0.9'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.01'
+      - statName: Opponent
+        statVal: "/images/teams/TB.png"
+      name: Michael Crabtree
+      team-image: "/images/teams/OAK.png"
+      image: "/images/players/michael-crabtree.png"
+      number: '15'
+      team: Oakland Raiders
+      gamesPlayed: '7'
+      weekPoints: "15.60"
+
+- title: "TE"
+  players:
+    - team-color: "#0F2240"
+      stats:
+      - statName: Receiving YPG
+        statVal: '75.0'
+      - statName: Receptions PG
+        statVal: '3.4'
+      - statName: TD Per Game
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.30'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: Rob Gronkowski
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/rob-gronkowski.png"
+      number: '87'
+      team: New England Patriots
+      gamesPlayed: '5'
+      weekPoints: "15.30"
+    - team-color: "#00295b"
+      stats:
+      - statName: Receiving YPG
+        statVal: '54.3'
+      - statName: Receptions PG
+        statVal: '3.3'
+      - statName: TD Per Game
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.43'
+      - statName: Opponent
+        statVal: "/images/teams/DEN.png"
+      name: Hunter Henry
+      team-image: "/images/teams/SD.png"
+      image: "/images/players/hunter-henry.png"
+      number: '86'
+      team: San Diego Chargers
+      gamesPlayed: '6'
+      weekPoints: "1.60"
+
+- title: "K"
+  players:
+    - team-color: "#0F2240"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '0.9'
+      - statName: FG 40+ PG
+        statVal: '0.4'
+      - statName: PAT PG
+        statVal: '2.7'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '6.86'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: Stephen Gostkowski
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/stephen-gostkowski.png"
+      number: '3'
+      team: New England Patriots
+      gamesPlayed: '7'
+      weekPoints: "2.00"
+    - team-color: "#42205d"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '1.0'
+      - statName: FG 40+ PG
+        statVal: '1.6'
+      - statName: PAT PG
+        statVal: '1.3'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.14'
+      - statName: Opponent
+        statVal: "/images/teams/BAL.png"
+      name: Justin Tucker
+      team-image: "/images/teams/BAL.png"
+      image: "/images/players/justin-tucker.png"
+      number: '9'
+      team: Baltimore Ravens
+      gamesPlayed: '7'
+      weekPoints: "14.00"
+
+- title: "DEF"
+  players:
+    - team-color: "#E31837"
+      stats:
+      - statName: Sacks PG
+        statVal: '1.3'
+      - statName: Turnovers PG
+        statVal: '2.3'
+      - statName: Touchdowns PG
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.33'
+      - statName: Opponent
+        statVal: "/images/teams/IND.png"
+      name: Kansas City Chiefs
+      team-image: "/images/teams/KC.png"
+      image: "/images/teams/KC.png"
+      number: ''
+      team: ''
+      gamesPlayed: '6'
+      weekPoints: "11.00"
+    - team-color: "#002245"
+      stats:
+      - statName: Sacks PG
+        statVal: '3.3'
+      - statName: Turnovers PG
+        statVal: '1.0'
+      - statName: Touchdowns PG
+        statVal: '0.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '8.17'
+      - statName: Opponent
+        statVal: "/images/teams/NO.png"
+      name: Seattle Seahawks
+      team-image: "/images/teams/SEA.png"
+      image: "/images/teams/SEA.png"
+      number: ''
+      team: ''
+      gamesPlayed: '6'
+      weekPoints: "15.00"

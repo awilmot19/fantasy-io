@@ -1,0 +1,999 @@
+
+- title: "QB"
+  players:
+    - team-color: "#002245"
+      stats:
+      - statName: Passing YPG
+        statVal: '259.8'
+        rank: 13th
+      - statName: Rushing YPG
+        statVal: '5.5'
+        rank: 23rd
+      - statName: TD/TO
+        statVal: 5/2
+        rank: 28th
+      - statName: FPA Opponents
+        statVal: "-2.6"
+        rank: 23rd
+      - statName: FP Per Game
+        statVal: '13.59'
+        rank: 21st
+      - statName: Opponent
+        statVal: "/images/teams/NO.png"
+        rank: 29th
+      name: Russell Wilson
+      team-image: "/images/teams/SEA.png"
+      image: "/images/players/russell-wilson.png"
+      number: '3'
+      team: Seattle Seahawks
+      gamesPlayed: '6'
+    - team-color: "#2A433A"
+      stats:
+      - statName: Passing YPG
+        statVal: '249.3'
+        rank: 21st
+      - statName: Rushing YPG
+        statVal: '16.0'
+        rank: 10th
+      - statName: TD/TO
+        statVal: 15/7
+        rank: 6th
+      - statName: FPA Opponents
+        statVal: '3.4'
+        rank: 5th
+      - statName: FP Per Game
+        statVal: '19.91'
+        rank: 8th
+      - statName: Opponent
+        statVal: "/images/teams/ATL.png"
+        rank: 19th
+      name: Aaron Rodgers
+      team-image: "/images/teams/GB.png"
+      image: "/images/players/aaron-rodgers.png"
+      number: '12'
+      team: Green Bay Packers
+      gamesPlayed: '6'
+    - team-color: "#006DB0"
+      stats:
+      - statName: Passing YPG
+        statVal: '273.4'
+      - statName: Rushing YPG
+        statVal: '18.0'
+      - statName: TD/TO
+        statVal: 15/5
+      - statName: FPA Opponents
+        statVal: '3.4'
+      - statName: FP Per Game
+        statVal: '20.17'
+      - statName: Opponent
+        statVal: "/images/teams/HOU.png"
+      name: Matthew Stafford
+      team-image: "/images/teams/DET.png"
+      image: "/images/players/matthew-stafford.png"
+      number: '9'
+      team: Detroit Lions
+      gamesPlayed: '7'
+    - team-color: "#003B6C"
+      stats:
+      - statName: Passing YPG
+        statVal: '296.3'
+      - statName: Rushing YPG
+        statVal: '21.3'
+      - statName: TD/TO
+        statVal: 15/6
+      - statName: FPA Opponents
+        statVal: '3.4'
+      - statName: FP Per Game
+        statVal: '21.41'
+      - statName: Opponent
+        statVal: "/images/teams/KC.png"
+      name: Andrew Luck
+      team-image: "/images/teams/IND.png"
+      image: "/images/players/andrew-luck.png"
+      number: '12'
+      team: Indianapolis Colts
+      gamesPlayed: '7'
+    - team-color: "#0F2240"
+      stats:
+      - statName: Passing YPG
+        statVal: '334.7'
+      - statName: Rushing YPG
+        statVal: '9.7'
+      - statName: TD/TO
+        statVal: 8/0
+      - statName: FPA Opponents
+        statVal: '3.4'
+      - statName: FP Per Game
+        statVal: '25.02'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: Tom Brady
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/tom-brady.png"
+      number: '12'
+      team: New England Patriots
+      gamesPlayed: '3'
+    - team-color: "#A71930"
+      stats:
+      - statName: Passing YPG
+        statVal: '335.4'
+      - statName: Rushing YPG
+        statVal: '8.6'
+      - statName: TD/TO
+        statVal: 16/5
+      - statName: FPA Opponents
+        statVal: '3.4'
+      - statName: FP Per Game
+        statVal: '22.56'
+      - statName: Opponent
+        statVal: "/images/teams/GB.png"
+      name: Matt Ryan
+      team-image: "/images/teams/ATL.png"
+      image: "/images/players/matt-ryan.png"
+      number: '2'
+      team: Atlanta Falcons
+      gamesPlayed: '7'
+
+- title: "RB1"
+  players:
+    - team-color: "#4095D1"
+      stats:
+      - statName: Rushing YPG
+        statVal: '90.4'
+      - statName: Receiving YPG
+        statVal: '27.4'
+      - statName: TD Per Game
+        statVal: '1.0'
+      - statName: FPA Opponents
+        statVal: '4.1'
+      - statName: FP Per Game
+        statVal: '17.50'
+      - statName: Opponent
+        statVal: "/images/teams/JAX.png"
+      name: DeMarco Murray
+      team-image: "/images/teams/TEN.png"
+      image: "/images/players/demarco-murray.png"
+      number: '29'
+      team: Tennesee Titans
+      gamesPlayed: '7'
+    - team-color: "#FFB60C"
+      stats:
+      - statName: Rushing YPG
+        statVal: '86.0'
+      - statName: Receiving YPG
+        statVal: '61.3'
+      - statName: TD Per Game
+        statVal: '0.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.22'
+      - statName: Opponent
+        statVal: "/images/teams/NE.png"
+      name: Le'Veon Bell
+      team-image: "/images/teams/PIT.png"
+      image: "/images/players/leveon-bell.png"
+      number: '26'
+      team: Pittsburgh Steelers
+      gamesPlayed: '4'
+    - team-color: "#B0063A"
+      stats:
+      - statName: Rushing YPG
+        statVal: '97.3'
+      - statName: Receiving YPG
+        statVal: '46.1'
+      - statName: TD Per Game
+        statVal: '1.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '20.91'
+      - statName: Opponent
+        statVal: "/images/teams/CAR.png"
+      name: David Johnson
+      team-image: "/images/teams/ARI.png"
+      image: "/images/players/david-johnson.png"
+      number: '31'
+      team: Arizona Cardinals
+      gamesPlayed: '7'
+    - team-color: "#005596"
+      stats:
+      - statName: Rushing YPG
+        statVal: '85.4'
+      - statName: Receiving YPG
+        statVal: '13.9'
+      - statName: TD Per Game
+        statVal: '1.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.93'
+      - statName: Opponent
+        statVal: "/images/teams/NE.png"
+      name: LeSean McCoy
+      team-image: "/images/teams/BUF.png"
+      image: "/images/players/lesean-mccoy.png"
+      number: '25'
+      team: Buffalo Bills
+      gamesPlayed: '7'
+    - team-color: "#00295b"
+      stats:
+      - statName: Rushing YPG
+        statVal: '65.9'
+      - statName: Receiving YPG
+        statVal: '25.0'
+      - statName: TD Per Game
+        statVal: '1.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '17.09'
+      - statName: Opponent
+        statVal: "/images/teams/DEN.png"
+      name: Melvin Gordon
+      team-image: "/images/teams/SD.png"
+      image: "/images/players/melvin-gordon.png"
+      number: '28'
+      team: San Diego Chargers
+      gamesPlayed: '7'
+    - team-color: "#C9243F"
+      stats:
+      - statName: Rushing YPG
+        statVal: '71.5'
+      - statName: Receiving YPG
+        statVal: '11.0'
+      - statName: TD Per Game
+        statVal: '1.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '14.25'
+      - statName: Opponent
+        statVal: "/images/teams/TB.png"
+      name: Carlos Hyde
+      team-image: "/images/teams/SF.png"
+      image: "/images/players/carlos-hyde.png"
+      number: '28'
+      team: San Franscisco 49ers
+      gamesPlayed: '6'
+
+- title: "RB2"
+  players:
+    - team-color: "#002245"
+      stats:
+      - statName: Rushing YPG
+        statVal: '67.7'
+      - statName: Receiving YPG
+        statVal: '15.0'
+      - statName: TD Per Game
+        statVal: '0.8'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.93'
+      - statName: Opponent
+        statVal: "/images/teams/NO.png"
+      name: Christine Michael
+      team-image: "/images/teams/SEA.png"
+      image: "/images/players/christine-michael.png"
+      number: '32'
+      team: Seattle Seahawks
+      gamesPlayed: '6'
+    - team-color: "#00123F"
+      stats:
+      - statName: Rushing YPG
+        statVal: '83.0'
+      - statName: Receiving YPG
+        statVal: '16.7'
+      - statName: TD Per Game
+        statVal: '0.3'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.69'
+      - statName: Opponent
+        statVal: "/images/teams/DET.png"
+      name: Lamar Miller
+      team-image: "/images/teams/HOU.png"
+      image: "/images/players/lamar-miller.png"
+      number: '26'
+      team: Houston Texans
+      gamesPlayed: '7'
+    - team-color: "#E31837"
+      stats:
+      - statName: Rushing YPG
+        statVal: '82.0'
+      - statName: Receiving YPG
+        statVal: '47.5'
+      - statName: TD Per Game
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '14.95'
+      - statName: Opponent
+        statVal: "/images/teams/IND.png"
+      name: Spencer Ware
+      team-image: "/images/teams/KC.png"
+      image: "/images/players/spencer-ware.png"
+      number: '32'
+      team: Kansas City Chiefs
+      gamesPlayed: '6'
+    - team-color: "#0F2240"
+      stats:
+      - statName: Rushing YPG
+        statVal: '80.9'
+      - statName: Receiving YPG
+        statVal: '4.4'
+      - statName: TD Per Game
+        statVal: '1.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.10'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: LeGarrette Blount
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/legarrette-blount.png"
+      number: '29'
+      team: New England Patriots
+      gamesPlayed: '7'
+    - team-color: "#A71930"
+      stats:
+      - statName: Rushing YPG
+        statVal: '33.4'
+      - statName: Receiving YPG
+        statVal: '47.1'
+      - statName: TD Per Game
+        statVal: '0.9'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.20'
+      - statName: Opponent
+        statVal: "/images/teams/SD.png"
+      name: Tevin Coleman
+      team-image: "/images/teams/ATL.png"
+      image: "/images/players/tevin-coleman.png"
+      number: '26'
+      team: Atlanta Falcons
+      gamesPlayed: '7'
+    - team-color: "#A71930"
+      stats:
+      - statName: Rushing YPG
+        statVal: '72.6'
+      - statName: Receiving YPG
+        statVal: '24.1'
+      - statName: TD Per Game
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.24'
+      - statName: Opponent
+        statVal: "/images/teams/GB.png"
+      name: Devonta Freeman
+      team-image: "/images/teams/ATL.png"
+      image: "/images/players/devonta-freeman.png"
+      number: '24'
+      team: Atlanta Falcons
+      gamesPlayed: '7'
+
+
+- title: "WR1"
+  players:
+    - team-color: "#FFB60C"
+      stats:
+      - statName: Receiving YPG
+        statVal: '84.6'
+      - statName: Receptions PG
+        statVal: '6.9'
+      - statName: TD Per Game
+        statVal: '0.7'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.01'
+      - statName: Opponent
+        statVal: "/images/teams/NE.png"
+      name: Antonio Brown
+      team-image: "/images/teams/PIT.png"
+      image: "/images/players/antonio-brown.png"
+      number: '84'
+      team: Pittsburgh Steelers
+      gamesPlayed: '7'
+    - team-color: "#A71930"
+      stats:
+      - statName: Receiving YPG
+        statVal: '118.6'
+      - statName: Receptions PG
+        statVal: '5.7'
+      - statName: TD Per Game
+        statVal: '0.6'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.29'
+      - statName: Opponent
+        statVal: "/images/teams/GB.png"
+      name: Julio Jones
+      team-image: "/images/teams/ATL.png"
+      image: "/images/players/julio-jones.png"
+      number: '11'
+      team: Atlanta Falcons
+      gamesPlayed: '7'
+    - team-color: "#D40909"
+      stats:
+      - statName: Receiving YPG
+        statVal: '90.8'
+      - statName: Receptions PG
+        statVal: '6.7'
+      - statName: TD Per Game
+        statVal: '1.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.08'
+      - statName: Opponent
+        statVal: "/images/teams/OAK.png"
+      name: Mike Evans
+      team-image: "/images/teams/TB.png"
+      image: "/images/players/mike-evans.png"
+      number: '13'
+      team: Tampa Bay Buccaneers
+      gamesPlayed: '6'
+    - team-color: "#20285D"
+      stats:
+      - statName: Receiving YPG
+        statVal: '90.0'
+      - statName: Receptions PG
+        statVal: '5.7'
+      - statName: TD Per Game
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.29'
+      - statName: Opponent
+        statVal: "/images/teams/LA.png"
+      name: Odell Beckham
+      team-image: "/images/teams/NYG.png"
+      image: "/images/players/odell-beckham.png"
+      number: '13'
+      team: New York Giants
+      gamesPlayed: '7'
+    - team-color: "#003B6C"
+      stats:
+      - statName: Receiving YPG
+        statVal: '98.4'
+      - statName: Receptions PG
+        statVal: '6.4'
+      - statName: TD Per Game
+        statVal: '0.6'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.27'
+      - statName: Opponent
+        statVal: "/images/teams/KC.png"
+      name: T.Y. Hilton
+      team-image: "/images/teams/IND.png"
+      image: "/images/players/ty-hilton.png"
+      number: '13'
+      team: Indianapolis Colts
+      gamesPlayed: '7'
+    - team-color: "#F8492E"
+      stats:
+      - statName: Receiving YPG
+        statVal: '110.7'
+      - statName: Receptions PG
+        statVal: '7.1'
+      - statName: TD Per Game
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.64'
+      - statName: Opponent
+        statVal: "/images/teams/WAS.png"
+      name: A.J. Green
+      team-image: "/images/teams/CIN.png"
+      image: "/images/players/aj-green.png"
+      number: '18'
+      team: Cincinnati Bengals
+      gamesPlayed: '7'
+
+- title: "WR2"
+  players:
+    - team-color: "#006DB0"
+      stats:
+      - statName: Receiving YPG
+        statVal: '89.0'
+      - statName: Receptions PG
+        statVal: '4.7'
+      - statName: TD Per Game
+        statVal: '0.6'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.37'
+      - statName: Opponent
+        statVal: "/images/teams/HOU.png"
+      name: Marvin Jones
+      team-image: "/images/teams/DET.png"
+      image: "/images/players/marvin-jones.png"
+      number: '11'
+      team: Detroit Lions
+      gamesPlayed: '7'
+    - team-color: "#A08A58"
+      stats:
+      - statName: Receiving YPG
+        statVal: '81.0'
+      - statName: Receptions PG
+        statVal: '5.3'
+      - statName: TD Per Game
+        statVal: '0.7'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.42'
+      - statName: Opponent
+        statVal: "/images/teams/SEA.png"
+      name: Brandin Cooks
+      team-image: "/images/teams/NO.png"
+      image: "/images/players/brandin-cooks.png"
+      number: '10'
+      team: Kansas City Chiefs
+      gamesPlayed: '6'
+    - team-color: "#B0063A"
+      stats:
+      - statName: Receiving YPG
+        statVal: '68.6'
+      - statName: Receptions PG
+        statVal: '6.6'
+      - statName: TD Per Game
+        statVal: '0.7'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.21'
+      - statName: Opponent
+        statVal: "/images/teams/CAR.png"
+      name: Larry Fitzgerald
+      team-image: "/images/teams/ARI.png"
+      image: "/images/players/larry-fitzgerald.png"
+      number: '11'
+      team: Arizona Cardinals
+      gamesPlayed: '7'
+    - team-color: "#EF4123"
+      stats:
+      - statName: Receiving YPG
+        statVal: '61.6'
+      - statName: Receptions PG
+        statVal: '5.0'
+      - statName: TD Per Game
+        statVal: '0.6'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.12'
+      - statName: Opponent
+        statVal: "/images/teams/NYJ.png"
+      name: Terrelle Pryor
+      team-image: "/images/teams/CLE.png"
+      image: "/images/players/terrelle-pryor.png"
+      number: '11'
+      team: Cleveland Browns
+      gamesPlayed: '7'
+    - team-color: "#000000"
+      stats:
+      - statName: Receiving YPG
+        statVal: '87.7'
+      - statName: Receptions PG
+        statVal: '5.7'
+      - statName: TD Per Game
+        statVal: '0.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.20'
+      - statName: Opponent
+        statVal: "/images/teams/TB.png"
+      name: Amari Cooper
+      team-image: "/images/teams/OAK.png"
+      image: "/images/players/amari-cooper.png"
+      number: '89'
+      team: Oakland Raiders
+      gamesPlayed: '7'
+    - team-color: "#000000"
+      stats:
+      - statName: Receiving YPG
+        statVal: '65.9'
+      - statName: Receptions PG
+        statVal: '5.6'
+      - statName: TD Per Game
+        statVal: '0.9'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.01'
+      - statName: Opponent
+        statVal: "/images/teams/TB.png"
+      name: Michael Crabtree
+      team-image: "/images/teams/OAK.png"
+      image: "/images/players/michael-crabtree.png"
+      number: '15'
+      team: Oakland Raiders
+      gamesPlayed: '7'
+
+
+- title: "TE"
+  players:
+    - team-color: "#00295b"
+      stats:
+      - statName: Receiving YPG
+        statVal: '54.3'
+      - statName: Receptions PG
+        statVal: '3.3'
+      - statName: TD Per Game
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.43'
+      - statName: Opponent
+        statVal: "/images/teams/DEN.png"
+      name: Greg Olsen
+      team-image: "/images/teams/CAR.png"
+      image: "/images/players/greg-olsen.png"
+      number: '88'
+      team: Carolina Panthers
+      gamesPlayed: '6'
+    - team-color: "#0F2240"
+      stats:
+      - statName: Receiving YPG
+        statVal: '75.0'
+      - statName: Receptions PG
+        statVal: '3.4'
+      - statName: TD Per Game
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.30'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: Rob Gronkowski
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/rob-gronkowski.png"
+      number: '87'
+      team: New England Patriots
+      gamesPlayed: '5'
+    - team-color: "#002245"
+      stats:
+      - statName: Receiving YPG
+        statVal: '68.0'
+      - statName: Receptions PG
+        statVal: '4.5'
+      - statName: TD Per Game
+        statVal: '0.2'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.97'
+      - statName: Opponent
+        statVal: "/images/teams/NO.png"
+      name: Jimmy Graham
+      team-image: "/images/teams/SEA.png"
+      image: "/images/players/jimmy-graham.png"
+      number: '88'
+      team: Seattle Seahawks
+      gamesPlayed: '6'
+    - team-color: "#0F2240"
+      stats:
+      - statName: Receiving YPG
+        statVal: '52.4'
+      - statName: Receptions PG
+        statVal: '3.9'
+      - statName: TD Per Game
+        statVal: '0.6'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.61'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: Martellus Bennett
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/martellus-bennett.png"
+      number: '83'
+      team: New England Patriots
+      gamesPlayed: '7'
+    - team-color: "#A08A58"
+      stats:
+      - statName: Receiving YPG
+        statVal: '46.8'
+      - statName: Receptions PG
+        statVal: '3.5'
+      - statName: TD Per Game
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.22'
+      - statName: Opponent
+        statVal: "/images/teams/SEA.png"
+      name: Coby Fleener
+      team-image: "/images/teams/NO.png"
+      image: "/images/players/coby-fleener.png"
+      number: '80'
+      team: New Orleans Saints
+      gamesPlayed: '6'
+    - team-color: "#4F2682"
+      stats:
+      - statName: Receiving YPG
+        statVal: '48.5'
+      - statName: Receptions PG
+        statVal: '4.3'
+      - statName: TD Per Game
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '12.18'
+      - statName: Opponent
+        statVal: "/images/teams/CHI.png"
+      name: Kyle Rudolph
+      team-image: "/images/teams/MIN.png"
+      image: "/images/players/kyle-rudolph.png"
+      number: '82'
+      team: Minnesota Vikings
+      gamesPlayed: '6'
+
+
+- title: "K"
+  players:
+    - team-color: "#0F2240"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '0.9'
+      - statName: FG 40+ PG
+        statVal: '0.4'
+      - statName: PAT PG
+        statVal: '2.7'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '6.86'
+      - statName: Opponent
+        statVal: "/images/teams/BUF.png"
+      name: Stephen Gostkowski
+      team-image: "/images/teams/NE.png"
+      image: "/images/players/stephen-gostkowski.png"
+      number: '3'
+      team: New England Patriots
+      gamesPlayed: '7'
+    - team-color: "#42205d"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '1.0'
+      - statName: FG 40+ PG
+        statVal: '1.6'
+      - statName: PAT PG
+        statVal: '1.3'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.14'
+      - statName: Opponent
+        statVal: "/images/teams/BAL.png"
+      name: Justin Tucker
+      team-image: "/images/teams/BAL.png"
+      image: "/images/players/justin-tucker.png"
+      number: '9'
+      team: Baltimore Ravens
+      gamesPlayed: '7'
+    - team-color: "#600"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '1.6'
+      - statName: FG 40+ PG
+        statVal: '0.7'
+      - statName: PAT PG
+        statVal: '2.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '9.71'
+      - statName: Opponent
+        statVal: "/images/teams/CIN.png"
+      name: Dustin Hopkins
+      team-image: "/images/teams/WAS.png"
+      image: "/images/players/dustin-hopkins.png"
+      number: '3'
+      team: Washington Redskins
+      gamesPlayed: '7'
+    - team-color: "#A71930"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '1.7'
+      - statName: FG 40+ PG
+        statVal: '0.4'
+      - statName: PAT PG
+        statVal: '3.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.43'
+      - statName: Opponent
+        statVal: "/images/teams/GB.png"
+      name: Matt Bryant
+      team-image: "/images/teams/ATL.png"
+      image: "/images/players/matt-bryant.png"
+      number: '3'
+      team: Atlanta Falcons
+      gamesPlayed: '7'
+    - team-color: "#2A433A"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '1.3'
+      - statName: FG 40+ PG
+        statVal: '0.7'
+      - statName: PAT PG
+        statVal: '2.3'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '8.83'
+      - statName: Opponent
+        statVal: "/images/teams/ATL.png"
+      name: Mason Crosby
+      team-image: "/images/teams/GB.png"
+      image: "/images/players/mason-crosby.png"
+      number: '2'
+      team: Green Bay Packers
+      gamesPlayed: '6'
+    - team-color: "#00295b"
+      stats:
+      - statName: FG 0-40 PG
+        statVal: '1.9'
+      - statName: FG 40+ PG
+        statVal: '0.6'
+      - statName: PAT PG
+        statVal: '3.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.71'
+      - statName: Opponent
+        statVal: "/images/teams/DEN.png"
+      name: Josh Lambo
+      team-image: "/images/teams/SD.png"
+      image: "/images/players/josh-lambo.png"
+      number: '2'
+      team: San Diego Chargers
+      gamesPlayed: '7'
+
+- title: "DEF"
+  players:
+    - team-color: "#4F2682"
+      stats:
+      - statName: Sacks PG
+        statVal: '3.2'
+      - statName: Turnovers PG
+        statVal: '2.7'
+      - statName: Touchdowns PG
+        statVal: '0.7'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '15.17'
+      - statName: Opponent
+        statVal: "/images/teams/CHI.png"
+      name: Minnesota Vikings
+      team-image: "/images/teams/MIN.png"
+      image: "/images/teams/MIN.png"
+      number: ''
+      team: ''
+      gamesPlayed: '6'
+    - team-color: "#005596"
+      stats:
+      - statName: Sacks PG
+        statVal: '3.0'
+      - statName: Turnovers PG
+        statVal: '1.7'
+      - statName: Touchdowns PG
+        statVal: '0.4'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.71'
+      - statName: Opponent
+        statVal: "/images/teams/NE.png"
+      name: Buffalo Bills
+      team-image: "/images/teams/BUF.png"
+      image: "/images/teams/BUF.png"
+      number: ''
+      team: ''
+      gamesPlayed: '7'
+    - team-color: "#004c55"
+      stats:
+      - statName: Sacks PG
+        statVal: '3.3'
+      - statName: Turnovers PG
+        statVal: '2.0'
+      - statName: Touchdowns PG
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '13.33'
+      - statName: Opponent
+        statVal: "/images/teams/DAL.png"
+      name: Philadelphia Eagles
+      team-image: "/images/teams/PHI.png"
+      image: "/images/teams/PHI.png"
+      number: ''
+      team: ''
+      gamesPlayed: '6'
+    - team-color: "#B0063A"
+      stats:
+      - statName: Sacks PG
+        statVal: '2.9'
+      - statName: Turnovers PG
+        statVal: '2.0'
+      - statName: Touchdowns PG
+        statVal: '0.1'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '11.00'
+      - statName: Opponent
+        statVal: "/images/teams/CAR.png"
+      name: Arizona Cardinals
+      team-image: "/images/teams/ARI.png"
+      image: "/images/teams/ARI.png"
+      number: ''
+      team: ''
+      gamesPlayed: '7'
+    - team-color: "#E31837"
+      stats:
+      - statName: Sacks PG
+        statVal: '1.3'
+      - statName: Turnovers PG
+        statVal: '2.3'
+      - statName: Touchdowns PG
+        statVal: '0.5'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '10.33'
+      - statName: Opponent
+        statVal: "/images/teams/IND.png"
+      name: Kansas City Chiefs
+      team-image: "/images/teams/KC.png"
+      image: "/images/teams/KC.png"
+      number: ''
+      team: ''
+      gamesPlayed: '6'
+    - team-color: "#002245"
+      stats:
+      - statName: Sacks PG
+        statVal: '3.3'
+      - statName: Turnovers PG
+        statVal: '1.0'
+      - statName: Touchdowns PG
+        statVal: '0.0'
+      - statName: FPA Opponents
+        statVal: '2.1'
+      - statName: FP Per Game
+        statVal: '8.17'
+      - statName: Opponent
+        statVal: "/images/teams/NO.png"
+      name: Seattle Seahawks
+      team-image: "/images/teams/SEA.png"
+      image: "/images/teams/SEA.png"
+      number: ''
+      team: ''
+      gamesPlayed: '6'

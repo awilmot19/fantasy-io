@@ -1,0 +1,661 @@
+---
+- team-color: "#002245"
+  stats:
+  - statName: Passing YPG
+    statVal: '259.8'
+    rank: 13th
+  - statName: Rushing YPG
+    statVal: '5.5'
+    rank: 23rd
+  - statName: TD/TO
+    statVal: 5/2
+    rank: 28th
+  - statName: FPA Opponents
+    statVal: "-2.6"
+    rank: 23rd
+  - statName: FP Per Game
+    statVal: '13.59'
+    rank: 21st
+  - statName: Opponent
+    statVal: "/images/teams/NO.png"
+    rank: 29th
+  name: Russell Wilson
+  team-image: "/images/teams/SEA.png"
+  image: "/images/players/russell-wilson.png"
+  number: '3'
+  team: Seattle Seahawks
+  gamesPlayed: '6'
+- team-color: "#2A433A"
+  stats:
+  - statName: Passing YPG
+    statVal: '249.3'
+    rank: 21st
+  - statName: Rushing YPG
+    statVal: '16.0'
+    rank: 10th
+  - statName: TD/TO
+    statVal: 15/7
+    rank: 6th
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank: 5th
+  - statName: FP Per Game
+    statVal: '19.91'
+    rank: 8th
+  - statName: Opponent
+    statVal: "/images/teams/ATL.png"
+    rank: 19th
+  name: Aaron Rodgers
+  team-image: "/images/teams/GB.png"
+  image: "/images/players/aaron-rodgers.png"
+  number: '12'
+  team: Green Bay Packers
+  gamesPlayed: '6'
+- team-color: "#006DB0"
+  stats:
+  - statName: Passing YPG
+    statVal: '273.4'
+    rank:
+  - statName: Rushing YPG
+    statVal: '18.0'
+    rank:
+  - statName: TD/TO
+    statVal: 15/5
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '20.17'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/HOU.png"
+    rank:
+  name: Matthew Stafford
+  team-image: "/images/teams/DET.png"
+  image: "/images/players/matthew-stafford.png"
+  number: '9'
+  team: Detroit Lions
+  gamesPlayed: '7'
+- team-color: "#003B6C"
+  stats:
+  - statName: Passing YPG
+    statVal: '296.3'
+    rank:
+  - statName: Rushing YPG
+    statVal: '21.3'
+    rank:
+  - statName: TD/TO
+    statVal: 15/6
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '21.41'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/KC.png"
+    rank:
+  name: Andrew Luck
+  team-image: "/images/teams/IND.png"
+  image: "/images/players/andrew-luck.png"
+  number: '12'
+  team: Indianapolis Colts
+  gamesPlayed: '7'
+- team-color: "#0F2240"
+  stats:
+  - statName: Passing YPG
+    statVal: '334.7'
+    rank:
+  - statName: Rushing YPG
+    statVal: '9.7'
+    rank:
+  - statName: TD/TO
+    statVal: 8/0
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '25.02'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+    rank:
+  name: Tom Brady
+  team-image: "/images/teams/NE.png"
+  image: "/images/players/tom-brady.png"
+  number: '12'
+  team: New England Patriots
+  gamesPlayed: '3'
+- team-color: "#A71930"
+  stats:
+  - statName: Passing YPG
+    statVal: '335.4'
+    rank:
+  - statName: Rushing YPG
+    statVal: '8.6'
+    rank:
+  - statName: TD/TO
+    statVal: 16/5
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '22.56'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/GB.png"
+    rank:
+  name: Matt Ryan
+  team-image: "/images/teams/ATL.png"
+  image: "/images/players/matt-ryan.png"
+  number: '2'
+  team: Atlanta Falcons
+  gamesPlayed: '7'
+- team-color: "#002245"
+  stats:
+  - statName: Passing YPG
+    statVal: '259.2'
+    rank:
+    rank: 13th
+  - statName: Rushing YPG
+    statVal: '29.6'
+    rank:
+    rank: 23rd
+  - statName: TD/TO
+    statVal: 11/7
+    rank:
+    rank: 28th
+  - statName: FPA Opponents
+    statVal: "-2.6"
+    rank:
+    rank: 23rd
+  - statName: FP Per Game
+    statVal: '21.33'
+    rank:
+    rank: 21st
+  - statName: Opponent
+    statVal: "/images/teams/ARI.png"
+    rank:
+    rank: 29th
+  name: Cam Newton
+  team-image: "/images/teams/CAR.png"
+  image: "/images/players/cam-newton.png"
+  number: '3'
+  team: Carolina Panthers
+  gamesPlayed: '5'
+- team-color: "#2A433A"
+  stats:
+  - statName: Passing YPG
+    statVal: '242.8'
+    rank:
+    rank: 21st
+  - statName: Rushing YPG
+    statVal: "-0.4"
+    rank:
+    rank: 10th
+  - statName: TD/TO
+    statVal: 7/3
+    rank:
+    rank: 6th
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+    rank: 5th
+  - statName: FP Per Game
+    statVal: '14.07'
+    rank:
+    rank: 8th
+  - statName: Opponent
+    statVal: "/images/teams/CHI.png"
+    rank:
+    rank: 19th
+  name: Sam Bradford
+  team-image: "/images/teams/MIN.png"
+  image: "/images/players/sam-bradford.png"
+  number: '8'
+  team: Minnesota Vikings
+  gamesPlayed: '5'
+- team-color: "#006DB0"
+  stats:
+  - statName: Passing YPG
+    statVal: '350.2'
+    rank:
+  - statName: Rushing YPG
+    statVal: '1.7'
+    rank:
+  - statName: TD/TO
+    statVal: 17/6
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '23.51'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/SEA.png"
+    rank:
+  name: Drew Brees
+  team-image: "/images/teams/NO.png"
+  image: "/images/players/drew-brees.png"
+  number: '9'
+  team: New Orleans Saints
+  gamesPlayed: '6'
+- team-color: "#003B6C"
+  stats:
+  - statName: Passing YPG
+    statVal: '258.3'
+    rank:
+  - statName: Rushing YPG
+    statVal: '6.9'
+    rank:
+  - statName: TD/TO
+    statVal: 13/4
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '18.16'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/TB.png"
+    rank:
+  name: Derek Carr
+  team-image: "/images/teams/OAK.png"
+  image: "/images/players/derek-carr.png"
+  number: '4'
+  team: Oakland Raiders
+  gamesPlayed: '7'
+- team-color: "#0F2240"
+  stats:
+  - statName: Passing YPG
+    statVal: '295.0'
+    rank:
+  - statName: Rushing YPG
+    statVal: '13.3'
+    rank:
+  - statName: TD/TO
+    statVal: 9/2
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '17.99'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/WAS.png"
+    rank:
+  name: Andy Dalton
+  team-image: "/images/teams/CIN.png"
+  image: "/images/players/andy-dalton.png"
+  number: '14'
+  team: Cincinnati Bengals
+  gamesPlayed: '7'
+- team-color: "#A71930"
+  stats:
+  - statName: Passing YPG
+    statVal: '185.3'
+    rank:
+  - statName: Rushing YPG
+    statVal: '38.7'
+    rank:
+  - statName: TD/TO
+    statVal: 11/3
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '17.57'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/NE.png"
+    rank:
+  name: Tyrod Taylor
+  team-image: "/images/teams/BUF.png"
+  image: "/images/players/tyrod-taylor.png"
+  number: '5'
+  team: Buffalo Bills
+  gamesPlayed: '7'
+- team-color: "#002245"
+  stats:
+  - statName: Passing YPG
+    statVal: '229.1'
+    rank:
+    rank: 13th
+  - statName: Rushing YPG
+    statVal: '30.0'
+    rank:
+    rank: 23rd
+  - statName: TD/TO
+    statVal: 13/9
+    rank:
+    rank: 28th
+  - statName: FPA Opponents
+    statVal: "-2.6"
+    rank:
+    rank: 23rd
+  - statName: FP Per Game
+    statVal: '17.31'
+    rank:
+    rank: 21st
+  - statName: Opponent
+    statVal: "/images/teams/JAX.png"
+    rank:
+    rank: 29th
+  name: Marcus Mariota
+  team-image: "/images/teams/TEN.png"
+  image: "/images/players/marcus-mariota.png"
+  number: '8'
+  team: Tennessee Titans
+  gamesPlayed: '7'
+- team-color: "#2A433A"
+  stats:
+  - statName: Passing YPG
+    statVal: '288.3'
+    rank:
+    rank: 21st
+  - statName: Rushing YPG
+    statVal: '2.7'
+    rank:
+    rank: 10th
+  - statName: TD/TO
+    statVal: 13/7
+    rank:
+    rank: 6th
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+    rank: 5th
+  - statName: FP Per Game
+    statVal: '17.23'
+    rank:
+    rank: 8th
+  - statName: Opponent
+    statVal: "/images/teams/DEN.png"
+    rank:
+    rank: 19th
+  name: Philip Rivers
+  team-image: "/images/teams/SD.png"
+  image: "/images/players/philip-rivers.png"
+  number: '17'
+  team: San Diego Chargers
+  gamesPlayed: '7'
+- team-color: "#006DB0"
+  stats:
+  - statName: Passing YPG
+    statVal: '285.1'
+    rank:
+  - statName: Rushing YPG
+    statVal: '7.0'
+    rank:
+  - statName: TD/TO
+    statVal: 11/7
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '16.68'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/CIN.png"
+    rank:
+  name: Kirk Cousins
+  team-image: "/images/teams/WAS.png"
+  image: "/images/players/kirk-cousins.png"
+  number: '8'
+  team: Washington Redskins
+  gamesPlayed: '7'
+- team-color: "#003B6C"
+  stats:
+  - statName: Passing YPG
+    statVal: '247.7'
+    rank:
+  - statName: Rushing YPG
+    statVal: '11.2'
+    rank:
+  - statName: TD/TO
+    statVal: 10/3
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '17.69'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/PHI.png"
+    rank:
+  name: Dak Prescott
+  team-image: "/images/teams/DAL.png"
+  image: "/images/players/dak-prescott.png"
+  number: '4'
+  team: Dallas Cowboys
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Passing YPG
+    statVal: '266.0'
+    rank:
+  - statName: Rushing YPG
+    statVal: '8.2'
+    rank:
+  - statName: TD/TO
+    statVal: 13/11
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '17.12'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/OAK.png"
+    rank:
+  name: Jameis Winston
+  team-image: "/images/teams/TB.png"
+  image: "/images/players/jameis-winston.png"
+  number: '3'
+  team: Tampa Bay Buccaneers
+  gamesPlayed: '6'
+- team-color: "#A71930"
+  stats:
+  - statName: Passing YPG
+    statVal: '261.2'
+    rank:
+  - statName: Rushing YPG
+    statVal: '20.5'
+    rank:
+  - statName: TD/TO
+    statVal: 10/11
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '15.83'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/TEN.png"
+    rank:
+  name: Blake Bortles
+  team-image: "/images/teams/JAX.png"
+  image: "/images/players/blake-bortles.png"
+  number: '5'
+  team: Jacksonville Jaguars
+  gamesPlayed: '6'
+- team-color: "#002245"
+  stats:
+  - statName: Passing YPG
+    statVal: '246.9'
+    rank:
+    rank: 13th
+  - statName: Rushing YPG
+    statVal: '11.1'
+    rank:
+    rank: 23rd
+  - statName: TD/TO
+    statVal: 8/9
+    rank:
+    rank: 28th
+  - statName: FPA Opponents
+    statVal: "-2.6"
+    rank:
+    rank: 23rd
+  - statName: FP Per Game
+    statVal: '13.56'
+    rank:
+    rank: 21st
+  - statName: Opponent
+    statVal: "/images/teams/NO.png"
+    rank:
+    rank: 29th
+  name: Ryan Tannehill
+  team-image: "/images/teams/MIA.png"
+  image: "/images/players/ryan-tannehill.png"
+  number: '17'
+  team: Miami Dolphins
+  gamesPlayed: '7'
+- team-color: "#2A433A"
+  stats:
+  - statName: Passing YPG
+    statVal: '283.4'
+    rank:
+    rank: 21st
+  - statName: Rushing YPG
+    statVal: "-0.7"
+    rank:
+    rank: 10th
+  - statName: TD/TO
+    statVal: 8/8
+    rank:
+    rank: 6th
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+    rank: 5th
+  - statName: FP Per Game
+    statVal: '13.55'
+    rank:
+    rank: 8th
+  - statName: Opponent
+    statVal: "/images/teams/ATL.png"
+    rank:
+    rank: 19th
+  name: Eli Manning
+  team-image: "/images/teams/NYG.png"
+  image: "/images/players/eli-manning.png"
+  number: '10'
+  team: New York Giants
+  gamesPlayed: '7'
+- team-color: "#006DB0"
+  stats:
+  - statName: Passing YPG
+    statVal: '262.4'
+    rank:
+  - statName: Rushing YPG
+    statVal: '1.9'
+    rank:
+  - statName: TD/TO
+    statVal: 7/8
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '13.25'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/HOU.png"
+    rank:
+  name: Joe Flacco
+  team-image: "/images/teams/BAL.png"
+  image: "/images/players/joe-flacco.png"
+  number: '5'
+  team: Baltimore Ravens
+  gamesPlayed: '7'
+- team-color: "#003B6C"
+  stats:
+  - statName: Passing YPG
+    statVal: '251.8'
+    rank:
+  - statName: Rushing YPG
+    statVal: '3.7'
+    rank:
+  - statName: TD/TO
+    statVal: 8/4
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '14.77'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/IND.png"
+    rank:
+  name: Alex Smith
+  team-image: "/images/teams/KC.png"
+  image: "/images/players/alex-smith.png"
+  number: '11'
+  team: Kansas City Chiefs
+  gamesPlayed: '6'
+- team-color: "#0F2240"
+  stats:
+  - statName: Passing YPG
+    statVal: '244.0'
+    rank:
+  - statName: Rushing YPG
+    statVal: '5.7'
+    rank:
+  - statName: TD/TO
+    statVal: 9/11
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '12.62'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/BUF.png"
+    rank:
+  name: Case Keenum
+  team-image: "/images/teams/LA.png"
+  image: "/images/players/case-keenum.png"
+  number: '17'
+  team: Los Angeles Rams
+  gamesPlayed: '7'
+- team-color: "#A71930"
+  stats:
+  - statName: Passing YPG
+    statVal: '284.2'
+    rank:
+  - statName: Rushing YPG
+    statVal: '1.3'
+    rank:
+  - statName: TD/TO
+    statVal: 7/6
+    rank:
+  - statName: FPA Opponents
+    statVal: '3.4'
+    rank:
+  - statName: FP Per Game
+    statVal: '14.17'
+    rank:
+  - statName: Opponent
+    statVal: "/images/teams/CAR.png"
+    rank:
+  name: Carson Palmer
+  team-image: "/images/teams/ARI.png"
+  image: "/images/players/carson-palmer.png"
+  number: '3'
+  team: Arizona Cardinals
+  gamesPlayed: '6'
