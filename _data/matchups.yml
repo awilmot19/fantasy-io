@@ -19,10 +19,10 @@
         statVal: '13.59'
         rank: 21st
       - statName: Opponent
-        statVal: "/images/teams/NO.png"
+        statVal: "../images/teams/NO.png"
         rank: 29th
       name: Russell Wilson
-      team-image: "/images/teams/SEA.png"
+      team-image: "images/teams/SEA.png"
       image: "/images/players/russell-wilson.png"
       number: '3'
       team: Seattle Seahawks
